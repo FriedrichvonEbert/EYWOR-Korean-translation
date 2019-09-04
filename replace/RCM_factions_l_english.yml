@@ -1,0 +1,22 @@
+﻿l_english:
+ japanese_empire:0 "Toa Shin Chitsujo"
+ anti_jap_salv_army:0 "Anti-Japan Salvation Army"
+ trans_pacific_union:0 "Trans Pacific Union"
+ pan_pacific_communist_front:0 "Pan-Pacific Communist Front"
+ CHI_man_bloc:0 "China-Japan-Manchoukuo Bloc"
+ WRL_leader_generic_faction:0 "Chinese National Coalition"
+ #REACTIONARY
+ DR_FACTION_NEUTRALITY:0 "Reactionary: "
+ DR_US_NEUTRAL:0 "§Y$US$§! is Reactionary: "
+ #SOCIALIST
+ FACTION_NAME_N_SOCIALIST_1:0 "The $LEADER_COUNTRY_ADJ$ Popular Front"
+ FACTION_NAME_N_SOCIALIST_2:0 "The $CONTINENT_ADJ$ Labour International"
+ FACTION_NAME_N_SOCIALIST_3:0 "The $CONTINENT_ADJ$ Socialist International"
+ FACTION_NAME_N_SOCIALIST_4:0 "The $CONTINENT_ADJ$ Union"
+ FACTION_NAME_N_SOCIALIST_5:0 "$CONTINENT_ADJ$ Syndicate"
+ FACTION_NAME_N_SOCIALIST_6:0 "$CONTINENT_ADJ$ Socialist Association"
+
+ #MORDRED's MONGOLIA
+ buddhist_faction:0 "Sangha"
+ peoples_front_faction:0 "People's Front"
+ MON_united_front:0 "Civil Front"

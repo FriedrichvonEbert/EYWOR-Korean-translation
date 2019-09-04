@@ -1,0 +1,382 @@
+﻿l_english:
+ ### PRC event ###
+ EFM_Comchina.1.t:0 "Attack Shanxi"
+ EFM_Comchina.1.d:0 "We will launch an offensive against Shanxi in the name of the Anti-Japanese War so that the Chinese people will see that we are the mainstay of the anti-Japanese war. However, we may lose or lose and fail to launch an attack."
+ EFM_Comchina.1.a:0 "Attack!"
+ EFM_Comchina.1.b:0 "We should hold back for now."
+ #
+ EFM_Comchina.2.t:0 "Victory in Shanxi"
+ EFM_Comchina.2.d:0 "We defeated a number of Shanxi warlord divisions and pushed back their original presence after our victory. We believe this victory has encouraged and will encourage the Chinese people to start putting themselves together for our grand revolution."
+ EFM_Comchina.2.a:0 "Great."
+ #
+ EFM_Comchina.3.t:0 "Defeated by the Communists"
+ EFM_Comchina.3.d:0 "Our troops are defeated by the Communist militia, puzzlingly they returned to their original position after winning, which still greatly affected our dominance within the Shanxi region."
+ EFM_Comchina.3.a:0 "Does retreat mean to mock us?"
+ #
+ EFM_Comchina.4.t:0 "Defeated by Shanxi Warlords"
+ EFM_Comchina.4.d:0 "We were defeated by the warlords in Shanxi. The remaining troops immediately returned to the our control zone, and not only lost human resources in vain, but also jokes to the outside world."
+ EFM_Comchina.4.a:0 "Damn!"
+ #
+ EFM_Comchina.5.t:0 "Communist Militias Repelled"
+ EFM_Comchina.5.d:0 "My army was attacked by the communist forces. However, we return them a bigger blow. Now all of them have fled and gone. This is a great day for Shanxi."
+ EFM_Comchina.5.a:0 "Great!"
+ #
+ EFM_Comchina.6.t:0 "Attack Ningsia"
+ EFM_Comchina.6.d:0 "Moscow agreed earlier that it would not be obstructed by Chiang Kai-shek to give any assistance if we could get through to be in direct contact with Mongolia. However before doing that we should at least sieze control of Ningsia first. Will the generals and leaders be ready to attack?"
+ EFM_Comchina.6.a:0 "Attack!"
+ EFM_Comchina.6.b:0 "We should hold back for now."
+ #
+ EFM_Comchina.7.t:0 "Victory against the Ma Clique Warlords"
+ EFM_Comchina.7.d:0 "Earlier some frontline troops telegraphed that they have defeated the warlord forces in the west and captured Ningsia. What should we do next?"
+ EFM_Comchina.7.a:0 "Great, but our soldiers need some rest."
+ EFM_Comchina.7.b:0 "Great, we will continue our advancement."
+ #
+ EFM_Comchina.8.t:0 "Losing Ningsia"
+ EFM_Comchina.8.d:0 "Although our military won several battles, we were still plunged by the Communists. Now that they have arrived in Sinkiang, Nanking seems very annoyed and our dominance seems insurmountable."
+ EFM_Comchina.8.a:0 "We'll hand over military power."
+ EFM_Comchina.8.b:0 "We'll submit to the central government."
+ EFM_Comchina.8.C:0 "We will cede the land."
+ #
+ EFM_Comchina.9.t:0 "Warlords Repelled Back"
+ EFM_Comchina.9.d:0 "Our offensive troops suffered heavy losses. The Ma Clique warlords' counterattack was stronger than expected. Now most of the comrades involved in the operation have already lost their lives or escaped. Only a few have arrived in Sinkiang."
+ EFM_Comchina.9.a:0 "That can't be good."
+ #
+ EFM_Comchina.10.t:0 "Our Army Wins"
+ EFM_Comchina.10.d:0 "Despite the adversary menace, our army finally managed to defeat the enemy and wiped out most of the enemy forces. Although a few remaining soldiers successfully escaped to Sinkiang, our dominance has been firmly rooted."
+ EFM_Comchina.10.a:0 "Great day for China!"
+ #
+ #EFM_Comchina.11.t:0 "The Communists Calls for a Truce and Urges Actions against Japan"
+ #EFM_Comchina.11.d:0 "At the time of our unsuccessful encirclement and suppression, the name of the power generation project of the Chinese Communist Party will end hostilities with all factions and demand that we confront Japan's invasion and stop the civil war. As a result, some of our officers and men will be affected. However, our top officials believe this is a slow-moving measure by the Communist Party and prevent us from continuing to encircle them. "
+ #EFM_Comchina.11.a:0 "Not Happening anytime soon."
+ EFM_Comchina.11.t:0 "The Communists Wishes to Arrange a Tacit Truce to Avoid Casualties"
+ EFM_Comchina.11.d:0 "The Communists has sent a letter to us today in secret, hoping us to arrange a tacit truce with them so as to aviod unnecessary loss of lives. Most of our men are sympathic to the communists and are also angry at the inaction of Nanking against the Japanese aggression. However, arranging such matter can be very tricky. How should we respond?"
+ EFM_Comchina.11.a:0 "Chinese shouldn't fight Chinese. We'll arrange a tacit truce."
+ EFM_Comchina.11.b:0 "We will not help the communists."
+ EFM_Comchina.11.b:0 "We underdand their cause, but their influence is too strong for us to do that now."
+ #
+ EFM_Comchina.12.t:0 "[NEA.GetLeader] Accepts our Request"
+ EFM_Comchina.12.d:0 "[NEA.GetLeader] and his followers have decided to accepts our request to arrange a tacit truce. They say from now on we stop any military actions against each other secretly. There's still hope for the civil to end."
+ EFM_Comchina.12.a:0 "Great!"
+ #
+ EFM_Comchina.13.t:0 "[NEA.GetLeader] Refuses our Request"
+ EFM_Comchina.13.d:0 "[NEA.GetLeader] and his followers have decided to decline our request to arrange a tacit truce, despite our sincere pleading. At this rate, there's little hope for the civil war to end any time soon."
+ EFM_Comchina.13.a:0 "We'll fight with all what we got, then."
+ #
+ EFM_Comchina.14.t:0 "Soviet Aid Arrives"
+ EFM_Comchina.14.d:0 "Soviet equipment has arrived, and now our military will begin to put on these kinds of equipment."
+ EFM_Comchina.14.a:0 "Great."
+ #
+ EFM_Comchina.15.t:0 "The Communists ask us to Join the Front Line"
+ EFM_Comchina.15.d:0 "Communist forces have arrived in neighboring areas and seem to be preparing to confront Japan and asking us to leave the ambiguity toward Japan and join them against Japan, and we are not sure if they can protect us, then how? Respond? "
+ EFM_Comchina.15.a:0 "They can not be trusted."
+ EFM_Comchina.15.b:0 "Let's believe them this time."
+ #
+ EFM_Comchina.16.t:0 "[From.GetName] Rejects"
+ EFM_Comchina.16.d:0 "[From.GetName] rejected our request. Now we have two options - to move to Peiping or to give up our plan. We should also pay attention to the possibility that Japan and Chiang Kai-shek might intervene and do a surprise attack."
+ EFM_Comchina.16.a:0 "We shall strike back!"
+ EFM_Comchina.16.b:0 "Whatever then."
+ #
+ EFM_Comchina.17.t:0 "[From.GetName] Agrees"
+ EFM_Comchina.17.d:0 "[From.GetName] agreed with our request and they will accept our command."
+ EFM_Comchina.17.a:0 "Very good!"
+ #
+ EFM_Comchina.18.t:0 "[From.GetName] Calls out Nationwide against [CHI.GetName] and [JAP.GetName]"
+ EFM_Comchina.18.d:0 "[From.GetName] How can we respond to the national call to join them against Japan and Nanking?"
+ EFM_Comchina.18.a:0 "Just ignore them."
+ EFM_Comchina.18.b:0 "We will Join them!"
+ EFM_Comchina.18.c:0 "Rebels! We shall eliminate them!"
+ #
+ EFM_Comchina.19.t:0 "[From.GetName] Join Us"
+ EFM_Comchina.19.d:0 "[From.GetName] In response to our call, they are now members of our front."
+ EFM_Comchina.19.a:0 "Excellent"
+ #####
+ EFM_Comchina.20.t:0 "Conference of the Soviets Regions"
+ EFM_Comchina.20.d:0 "Our military has just undergone a major strategic shift and some people have doubts about the policy decisions of the higher level. Are we moving the motions?"
+ EFM_Comchina.20.a:0 "We should work towards maintaining the status quo."
+ EFM_Comchina.20.b:0 "Hold an emergency meeting to rethink our future."
+ #
+ #like or hate sov
+ EFM_Comchina.21.t:0 "The Relationship with the Soviet Union?"
+ EFM_Comchina.21.d:0 "Despite the obvious support the Soviet Union can offer as an ally, they seem disintereted in helping us expand our influence in China due to the potential Japanese threat. Furthermore, some people within our party have questioned the legitimacy of Joseph Stalin as the leader of the communist sphere. What measures should we take regarding this?"
+ EFM_Comchina.21.a:0 "The Soviet Union can offer enormous support."
+ EFM_Comchina.21.b:0 "We should lower foreign influence and alienate Moscow."
+ #
+ #Public accept us
+ EFM_Comchina.22.t:0 "Our Proposition Accepted"
+ EFM_Comchina.22.d:0 "Our claims are accepted by the general public and we will therefore adopt a more friendly and frequent interaction with the Soviet Union."
+ EFM_Comchina.22.a:0 "Great."
+ #
+ #People question us that we like sov, convince them or agree
+ EFM_Comchina.23.t:0 "The Public Questions our Relationship with the Soviet Union"
+ EFM_Comchina.23.d:0 "There are more and more people who have questioned the fact that we try to put Moscow on a padestal as our "mentor" while they seem disinterested in supporting our cause, instead of solving on our internal issues first. The political opponents of the meeting are criticizing our rhetoric. How can we face the question of voices?"
+ EFM_Comchina.23.a:0 "We'll convince them. The Soviet Union is an obvious ally."
+ EFM_Comchina.23.b:0 "No consensus reached. Status Quo it is."
+ EFM_Comchina.23.c:0 "They have a point. We will concede."
+ #
+ #Public barely accept us
+ EFM_Comchina.24.t:0 "Our Opposition Barely Accepts Us"
+ EFM_Comchina.24.d:0 "Despite all the rhetoric about relations with the Soviet Union and our vision for the future, we convinced the conference and trustees of our stance. However, many of them still refuse to accept our statement, which is a blow to our reputation."
+ EFM_Comchina.24.a:0 "Unfortunate."
+ #
+ #respect or not respect Trotskyists
+ EFM_Comchina.25.t:0 "Trotskyists in Power?"
+ EFM_Comchina.25.d:0 "Many people agree that the fight against Trotskyites is unilaterally mandatory by Moscow. Many of our members have therefore left. Should we review this policy again?"
+ EFM_Comchina.25.a:0 "They deserve to be respected."
+ EFM_Comchina.25.b:0 "They are just like those goons in Moscow."
+ #
+ #Trotskyists try to convince us, agree or not
+ EFM_Comchina.26.t:0 "Trotskyists' Proposal"
+ EFM_Comchina.26.d:0 "After the Trotskyists were allowed to rejoin the party, they immediately proposed at the conference, suggesting us to adopt their point of view for future directions. Should we adopt their ideologies?"
+ EFM_Comchina.26.a:0 "Resolution will be adopted."
+ EFM_Comchina.26.b:0 "Resolution will be rejected."
+ #
+ #Trotskyism Revisited
+ EFM_Comchina.27.t:0 "Trotskyism Revisited"
+ EFM_Comchina.27.d:0 "The conference finally adopted the decision of the Trotskyites, and we will start the policy changes in this area. We expect the Soviet Union may be a bit unhappy, while some dissatisfied people are protesting including the withdrawal."
+ EFM_Comchina.27.a:0 "Understand."
+ #
+ #People hate Trotskyists
+ EFM_Comchina.28.t:0 "Major Opposition against Trotskyists' Proposal"
+ EFM_Comchina.28.d:0 "Most of the popular opposition to the Trotsky proposal, conference resolution will be difficult to implement and was forced to veto, Trustees leaders claimed that they will continue to promote their ideas, the conference will eventually return to the original status. However, we can declare their opposition legitimate and the veto invalid, and then proceed to work with the Trotskyists. What measures should we take next?"
+ EFM_Comchina.28.a:0 "Understand."
+ EFM_Comchina.28.b:0 "We will stand with the Trotskyists no matter what!"
+ #
+ #Trotskyists Express Dissatisfaction, expel them or ignore
+ EFM_Comchina.29.t:0 "Trotskyists Express Dissatisfaction"
+ EFM_Comchina.29.d:0 "Immediately after we rejected the Trotskyite proposal, they immediately started the struggle for power, which forced us to have to be dismissed again. If we do not promptly solve it, we will probably suffer a great deal of hardship "
+ EFM_Comchina.29.a:0 "Expel them from the party!"
+ EFM_Comchina.29.b:0 "Ignore their tantrums."
+ #
+ #Clash within CCP
+ EFM_Comchina.30.t:0 "Major Clash within the Party"
+ EFM_Comchina.30.d:0 "There have been serious and massive clashes between the supporters and the opposition of Trotskyism. The conflict lasted all day and has now become subdued and the rioters also arrested, but this has caused serious damage to us. "
+ EFM_Comchina.30.a:0 "This is getting out of hand!"
+ #
+ #Trotskyists go their own way
+ EFM_Comchina.31.t:0 "Dissatisfied Trotskyists Form New Parties"
+ EFM_Comchina.31.d:0 "Dissatisfaction with the protests of our Trotskyist activists has left the party and set up another group after their unmoved move, but their influence has long been outdone."
+ EFM_Comchina.31.a:0 "Wish them well."
+ #
+ #people questin disliking sov, convice or agree
+ EFM_Comchina_extra.1.t:0 "The Conference Questions our Alienation from the Soviet Union"
+ EFM_Comchina_extra.1.d:0 "There are more and more people who have questioned why are we trying to alienate an obvious ally that could offer us enormous support, despite the disinterets of Moscow in supporting our cause. The political opponents of the conference are criticizing our rhetoric. How can we face the question of voices?"
+ EFM_Comchina_extra.1.a:0 "We will convince our opposition. Moscow cannot be trusted."
+ EFM_Comchina_extra.1.b:0 "No consensus reached. Status quo it is."
+ EFM_Comchina_extra.1.c:0 "They have a point. We will concede."
+ #
+ #accepted
+ EFM_Comchina_extra.2.t:0 "Our Proposition Accepted"
+ EFM_Comchina_extra.2.d:0 "Despite some minor disagreements, a consensus has been reached in the conference on alienating the authorities in Moscow and we will shift focus towards our internal struggle in China. This is a good news!"
+ EFM_Comchina_extra.2.a:0 "Great!"
+ #
+ #barely accepted
+ EFM_Comchina_extra.3.t:0 "Our Opposition Barely Accepts Us"
+ EFM_Comchina_extra.3.d:0 "Despite all the rhetoric about our isolationism and the alienation of Soviet Union as an obvious ally, we convinced the public and trustees of our stance. However, many of them still refuse to accept our statement, which is a blow to our reputation."
+ EFM_Comchina_extra.3.a:0 "What a shame!"
+ #
+ ########
+ EFM_Comchina.32.t:0 "Chen Duxiu Released from Prison"
+ EFM_Comchina.32.d:0 "Comrade Chen Duxiu, the founder of the Commmunist Party of China, has been released due to our policy shift towards Trotskyism. Should we welcome him back to act as the Chairman of the Communist Party of China?"
+ EFM_Comchina.32.a:0 "Welcome him back!"
+ EFM_Comchina.32.b:0 "Nah."
+ #
+ EFM_Comchina.33.t:0 "Chen Duxiu back to the Party"
+ EFM_Comchina.33.d:0 "After some hesitation, Chen Duxiu decided to return to our extended family. After returning to Yenan with the members of the expatriate team to evade the Kuomintang tracing, he will return to chairmanship."
+ EFM_Comchina.33.a:0 "Understand."
+ #
+ EFM_Comchina.34.t:0 "Chen Duxiu Delines"
+ EFM_Comchina.34.d:0 "Chen Duxiu declined our offer and his publicly declared that he now no longer belongs to any party. The chance of he returning as the Chairman is very unlikely. The party however, will still focusing on promoting Trotskyist values and fighting for the permanent revolution."
+ EFM_Comchina.34.a:0 "Unfortunate."
+ #
+ EFM_Comchina.35.t:0 "Chairman Chen Duxiu"
+ EFM_Comchina.35.d:0 "Now Chen Duxiu is back and all key members of the party agreed on letting him to take the chair of the party. All salute to our new leader Chen in the fight for the permanent revolution!"
+ EFM_Comchina.35.a:0 "Great!"
+ #
+ EFM_Comchina.36.t:0 "[From.GetName] Offer us Federal Membership"
+ EFM_Comchina.36.d:0 "[From.GetName] invited us to join their federation as a member state and help them unite our nation as a federal nation. What should we do?"
+ EFM_Comchina.36.a:0 "Sure!"
+ EFM_Comchina.36.b:0 "They still can not be trusted."
+ #
+ EFM_Comchina.37.t:0 "[From.GetName] Accepts"
+ EFM_Comchina.37.d:0 "[From.GetName] signed an armistice agreement, the two sides will not fight at least temporarily."
+ EFM_Comchina.37.a:0 "Great."
+ #
+ EFM_Comchina.38.t:0 "[From.GetName] Rejectes our Offer"
+ EFM_Comchina.38.d:0 "[From.GetName] refused to sign the agreement and withdrew from the negotiation. We weren't able to do any about it."
+ EFM_Comchina.38.a:0 "Really stupid huh."
+ #
+ EFM_Comchina.39.t:0 "[From.GetName] are Infiltrating our Government!"
+ EFM_Comchina.39.d:0 "[From.GetName] are Infiltrating our Government and organizing subversive activities against us. They can easily stage a coup once our communist support is too high."
+ EFM_Comchina.39.a:0 "Damn those Communist!"
+ #
+ EFM_Comchina.40.t:0 "Communist Coup"
+ EFM_Comchina.40.d:0 "Due to our mistakes and negligence, the Communists had managed to garner a considerable level of support. And just today morning a coup was staged to overthrow us. The headquarters has been surrounded and they storming in. The end of our leadership is nigh."
+ EFM_Comchina.40.a:0 "We shall submit..."
+ EFM_Comchina.40.a:0 "We shall Fight!"
+ #
+ EFM_Comchina.41.t:0 "[From.GetName] Coup"
+ EFM_Comchina.41.d:0 "The people of [From.GetName] have enough power to overthrow the incumbent government and now they will join us."
+ EFM_Comchina.41.a:0 "Great."
+ EFM_Comchina.41.b:0 "Let's clear out their remnants."
+ #
+ EFM_Comchina.42.t:0 "[From.GetName] Forms New Alliance"
+ EFM_Comchina.42.d:0 "The government of [From.GetName] has created an interracial coalition and they invited us to join. How should we respond?"
+ EFM_Comchina.42.a:0 "Asia Should Unite!"
+ EFM_Comchina.42.a:0 "They are not trustworthy."
+ #
+ EFM_Comchina.43.t:0 "[From.GetName] Joins Us"
+ EFM_Comchina.43.d:0 "The government of [From.GetName] has changed their view on us and they accepted our invitation to become a member of the coalition."
+ EFM_Comchina.43.a:0 "Great."
+ #
+ EFM_Comchina.44.t:0 "Student Movement"
+ EFM_Comchina.44.d:0 "A group of students gathered to protest our domestic policy and demanding for reforms. They don't seem to have the intention of cooperating, but suppressing or driving them away might cause some serious problems."
+ EFM_Comchina.44.a:0 "Let them protest."
+ EFM_Comchina.44.b:0 "Suppress them. Hard."
+ #
+ EFM_Comchina.45.t:0 "Mass Public Protests"
+ EFM_Comchina.45.d:0 "Today groups of people have launched a very large protest in some cities and demanded that we stop any internal military operations. We are convinced that organizations behind them are manipulating them and that it'll takes quite a lot to disperse or suppress them. What should we do in response?"
+ EFM_Comchina.45.a:0 "Let them protest."
+ EFM_Comchina.45.b:0 "Suppress them. Hard."
+ #
+ EFM_Comchina.46.t:0 "Regional Rebellion"
+ EFM_Comchina.46.d:0 "The forces of [PRC_Nationwide_revolution_communist_state.GetName] are announced to [From.GetName], and local government agencies have pledged allegiance to the enemy. This is a full-fledged rebellion!"
+ EFM_Comchina.46.a:0 "We must crush them!"
+ #
+ EFM_Comchina.47.t:0 "In [PRC_Nationwide_revolution_communist_state.GetName] Uprising"
+ EFM_Comchina.47.d:0 "People from [PRC_Nationwide_revolution_communist_state.GetName] have abandoned [From.GetName] and now they will be revolutionary comrades."
+ EFM_Comchina.47.a:0 "Welcome!"
+ #
+ EFM_Comchina.100.t:0 "Sino-Soviet Diplomatic Ties"
+ EFM_Comchina.100.d:0 "The Soviet Union now has established formal diplomatic relations with Red China, which has gradually taken control of Central Plains. This will make the old National Government feel very angry."
+ EFM_Comchina.100.a:0 "New Oriental Order has been established!"
+####
+ EFM_Comchina.199.t:0 "Recovery Effort: Limited Progress"
+ EFM_Comchina.199.d:0 "The recovery from the Long March has shown some very limited progress. However, the recovery seems to be promising and steady."
+ EFM_Comchina.199.a:0 "A good start is half the battle."
+####
+ EFM_Comchina.200.t:0 "Recovery Effort: Moderate Progress"
+ EFM_Comchina.200.d:0 "The recovery from the Long March has shown some moderate progress. Futher progress is expected to come in the near future."
+ EFM_Comchina.200.a:0 "Good."
+####
+ EFM_Comchina.201.t:0 "Recovery Effort: Decent Progress"
+ EFM_Comchina.201.d:0 "The recovery from the Long March has shown some decent progress. Our army will fight for all the workers and peasants in China!"
+ EFM_Comchina.201.a:0 "Yeah!"
+####
+ EFM_Comchina.202.t:0 "Recovery Effort: Finalizing Stage"
+ EFM_Comchina.202.d:0 "The recovery from the Long March has entered its finalizing stage. Our army will soon enough be as competent, if not more, as the nationalists."
+ EFM_Comchina.202.a:0 "Great!"
+####
+ EFM_Comchina.203.t:0 "Fully Recovered from the Long March"
+ EFM_Comchina.203.d:0 "[Root.GetName] has fully recovered from the Long March. Our army can now fight off the capitalists and the imperialists to its full potential!"
+ EFM_Comchina.203.a:0 "A new dawn for the Chinese workers and peasants!"
+####
+ EFM_Comchina.204.t:0 "Recovery Effort Sabotaged"
+ EFM_Comchina.204.d:0 "After the recent drop in national unity, some of our recovery effort has been sabotaged. These are dark time for the comrades in our army."
+ EFM_Comchina.204.a:0 "Oh no!"
+####
+ EFM_Comchina.205.t:0 "Recovery Effort Sabotaged"
+ EFM_Comchina.205.d:0 "After the recent drop in national unity, some of our recovery effort has been sabotaged. These are dark time for the comrades in our army."
+ EFM_Comchina.205.a:0 "Oh no!"
+####
+ EFM_Comchina.206.t:0 "Recovery Effort Sabotaged"
+ EFM_Comchina.206.d:0 "After the recent drop in national unity, some of our recovery effort has been sabotaged. These are dark time for the comrades in our army."
+ EFM_Comchina.206.a:0 "Oh no!"
+####
+ EFM_Comchina.207.t:0 "Recovery Effort Sabotaged"
+ EFM_Comchina.207.d:0 "After the recent drop in national unity, some of our recovery effort has been sabotaged. These are dark time for the comrades in our army."
+ EFM_Comchina.207.a:0 "Oh no!"
+ ### NOr
+ EFM_Comchina.208.t:0 "Communist Influence in North China"
+ EFM_Comchina.208.d:0 "Yesterday different reports and intelligence agencies are saying that the Communist forces have already infiltrated several states in North China. This might jeopardize our authority in the future."
+ EFM_Comchina.208.a:0 "Oh no!"
+ ### MAN
+ EFM_Comchina.209.t:0 "Communist Influence in Manchuria"
+ EFM_Comchina.209.d:0 "Yesterday different reports and intelligence agencies are saying that the Communist forces have already infiltrated several states in Manchuria. This might jeopardize our authority in the future."
+ EFM_Comchina.209.a:0 "Oh no!"
+ ### INNER
+ EFM_Comchina.210.t:0 "Communist Influence in Inner Mongolia"
+ EFM_Comchina.210.d:0 "Yesterday different reports and intelligence agencies are saying that the Communist forces have already infiltrated several states in Inner Mongolia. This might jeopardize our authority in the future."
+ EFM_Comchina.210.a:0 "Oh no!"
+ ###
+ EFM_Comchina.211.t:0 "Open Up Soviet Supply Line"
+ EFM_Comchina.211.d:0 "Moscow agreed earlier that they would not be hindered by Nanking authorities to give any assistance if we can get through the warlords in Northwest Corridor and become in direct contact with Mongolia. An attack plan is already on position."
+ EFM_Comchina.211.a:0 "Attack!"
+ EFM_Comchina.211.b:0 "We should hold back for now."
+ ###
+ EFM_Comchina.2117.t:0 "Our Army Wins"
+ EFM_Comchina.2117.d:0 "Despite the low level of supplies, our army finally managed to defeat the enemy and completely wiped out enemy forces. Although a few remaining soldiers successfully escaped to Sinkiang, our dominance in the region has been firmly rooted, and most importantly, Soviet aid should arrive soon."
+ EFM_Comchina.2117.a:0 "Great day for China!"
+ ###
+ EFM_Comchina.2118.t:0 "Communist Militias Repelled"
+ EFM_Comchina.2118.d:0 "My army was attacked by the communist forces. However, we return them a bigger blow. Now all of them have fled and gone. Our dominance in the region has been reclaimed. This is a great day for the Ma Cliques."
+ EFM_Comchina.2118.a:0 "Great!"
+ ###
+ EFM_Comchina.2119.t:0 "Warlords Repelled Back"
+ EFM_Comchina.2119.d:0 "Our offensive troops suffered heavy losses. The Ma Clique warlords' counterattack was stronger than expected. Now most of the comrades involved in the operation have already lost their lives or escaped. Only a few have arrived in Sinkiang."
+ EFM_Comchina.2119.a:0 "That can't be good."
+ ###
+ EFM_Comchina.2120.t:0 "Communist Militias Retreated"
+ EFM_Comchina.2120.d:0 "My army was attacked by the communist forces. However, recently they have decided to retreat back to their base for reasons that are not yet specified. However, our influence in the region are not greatly affected by the uneventful assault."
+ EFM_Comchina.2120.a:0 "Okay."
+ ###
+ EFM_Comchina.213.t:0 "Nationalists Offers Truce"
+ EFM_Comchina.213.d:0 "Surprisingly, despite being superior in both strength and influence, the Nationalists have decided to offer truce to the ongoing civil war. What should we do in response?"
+ EFM_Comchina.213.a:0 "We'll fight the Nationalists till the bitter end."
+ ###
+ EFM_Comchina.214.t:0 "[From.GetName] Accepts our Truce"
+ EFM_Comchina.214.d:0 "After notified of our friendly intention, [From.GetName] responded positively to our offer of Truce in the face of Japanese aggression. Now the Chinese will work with each other to defend our homeland."
+ EFM_Comchina.214.a:0 "Great!"
+ ###
+ EFM_Comchina.215.t:0 "[From.GetName] Rejects our Truce"
+ EFM_Comchina.215.d:0 "After notified of our friendly intention, to our dismay, [From.GetName] responded negatively to our offer of Truce in the face of Japanese aggression. Now the Chinese won't be able to work with each other to defend our homeland thanks to those communist goons."
+ EFM_Comchina.215.a:0 "It's time to teach them a lesson!"
+ ###
+ EFM_Comchina.216.t:0 "Specialized Training Programs Launched"
+ EFM_Comchina.216.d:0 "Several Specialized Training Programs backed by the Communist Party has now officially lauched. A batch of personnel and specialists alike will be fully trained every 3 months."
+ EFM_Comchina.216.a:0 "Great!"
+ ###
+ EFM_Comchina.217.t:0 "A New Batch of Researchers Available"
+ EFM_Comchina.217.d:0 "A new batch of personnel and specialists are fully trained and ready to serve in governmental positions. The severity of our skill shortage is reduced."
+ EFM_Comchina.217.a:0 "Great!"
+ ###
+ EFM_Comchina.218.t:0 "A New Batch of Researchers Available"
+ EFM_Comchina.218.d:0 "A new batch of personnel and specialists are fully trained and ready to serve in governmental positions. The severity of our skill shortage is reduced."
+ EFM_Comchina.218.a:0 "Great!"
+ ###
+ EFM_Comchina.219.t:0 "A New Batch of Researchers Available"
+ EFM_Comchina.219.d:0 "A new batch of personnel and specialists are fully trained and ready to serve in governmental positions. The severity of our skill shortage is reduced."
+ EFM_Comchina.219.a:0 "Great!"
+ ###
+ EFM_Comchina.220.t:0 "Training Programs Interrupted"
+ EFM_Comchina.220.d:0 "Our part has decided that we have something more urgent than training skilled personnel to deal with. The ongoing terms for all training programs are therefore cancelled."
+ EFM_Comchina.220.a:0 "No!"
+ ###
+ EFM_Comchina.222.t:0 "Civilian Administration Dissolved"
+ EFM_Comchina.222.d:0 "[Root.GetLeader] has announced earlier, that the civilian administration of our country is to be dissolved and the military will assume their position. Officials with no military background have already been forced to abandon their positions, and all power now goes to the military.\n\nZhang stated that this measure is to ensure the unwavering support of the military by the public not influenced by petty government propaganda. Military law now also substitutes civilian laws."
+ EFM_Comchina.222.a:0 "The military will bring our country to glory!"
+ ###
+ EFM_Comchina.223.t:0 "A New Nation"
+ EFM_Comchina.223.d:0 "Millions of crowds gathered at Tiananmen Square as our beloved leader, [Root.GetLeader], announced that a new nation belonging to the people had now been founded.\n\n"Compatriots, today, the Central People's Government of People's Republic of China, has been established!", [Root.GetLeader]'s announcement which led to the climax of the founding ceremony, is broadcasted countrywide and some even listen to this on repeat."
+ EFM_Comchina.223.a:0 "This is truly a great day for the people!"
+ ###
+ EFM_Comchina.224.t:0 "For The Soviet"
+ EFM_Comchina.224.d:0 "The Chinese Soviet Republic was established in Juikin back in 1931, and was subsequently dismantled. Now our leader, [Root.GetLeader] has proposed that we pick up the name and pass on the revolutionary spirit.\n\nAfter a brief discussion with few selected officials, it is officially announced that the name of Chinese Soviet Republic would be our new nation's. This inspiring news has prompted numerous celebrations amongst our people."
+ EFM_Comchina.224.a:0 "We will continue the legacy!"
+ ###
+ EFM_Comchina.225.t:0 "The Chinese Federation"
+ EFM_Comchina.225.d:0 "Administrating territories as vast as China would certainly be a drain for resources. In light of this, [Root.GetLeader] has wisely adopted the idea of a federal republic.\n\nAfter days of closed-door discussions, the plan for the federal republic is finally complete. Our people rejoice as a Utopian government for the people, which encompasses democracy and communism, is finally realised."
+ EFM_Comchina.225.a:0 "Our people will prosper under the federal republic!"
+ ###
+ rcmchina.352.t:0 "Second United Front"
+ rcmchina.352.d:0 "The nationalists has decided to form the "Second United Front" for us to work closer with each other in the face of Japanese aggression. How should we respond to that?"
+ rcmchina.352.a:0 "Great!"
+ rcmchina.352.b:0 "Nah, we changed our mind."
+ ###
+ rcmchina.353.t:0 "[From.GetName] Accepts our Proposal"
+ rcmchina.353.d:0 "After notified of our friendly intention, [From.GetName] responded positively to our Proposal of forming the "Second United Front" in the face of Japanese aggression. Now the Chinese will work with each other to defend our homeland."
+ rcmchina.353.a:0 "Great!"
+ ###
+ rcmchina.354.t:0 "[From.GetName] Rejects our Proposal"
+ rcmchina.354.d:0 "After notified of our friendly intention, to our dismay, [From.GetName] responded negatively to our roposal of forming the "Second United Front" in the face of Japanese aggression. Now the Chinese won't be able to work with each other to defend our homeland thanks to those communist goons."
+ rcmchina.354.a:0 "It's time to teach them a lesson!"
+ 

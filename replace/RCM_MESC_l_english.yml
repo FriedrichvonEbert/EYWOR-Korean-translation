@@ -1,0 +1,210 @@
+﻿l_english:
+ #TAKE NATIONAL LEADERSHIP, COALITION GOVERNMENT => The Conference of the Soviet Regions
+ WTT_national_leadership_desc:0 "§WAll warlords have access to this decision.\n[Root.GetHowToUnlockStruggle]§!"
+ #WTT_unlock_struggle_comchina:0 "Complete §HThe Conference of the Soviet Regions§! focus to initiate the power struggle."
+ WTT_unlock_struggle_warlord:0 "Complete §HJoin the Republican Government§! focus to initiate the power struggle."
+ WTT_unlock_struggle_leader:0 "To initiate the power struggle §HWarlords§! have to complete§H Join the Republican Government§!."
+
+ DECISION_REMOVE_HEADER:1 "§HEffects when finished:§!"
+ DECISION_WILL_BE_REMOVED_IF:1 "§HInstantly finish if:§!"
+
+ BORDER_CONFLICT:0 "\n$STATE|H$ is affected by Communist Partisan Activities"
+ TRIGGER_IS_BORDER_CONFLICT:0 "$STATE|H$ is affected by Communist Partisan Activities."
+ TRIGGER_IS_NOT_BORDER_CONFLICT:0 "$STATE|H$ is not affected by Communist Partisan Activities."
+ border_conflict_reconciled:0 "Communist Partisan Activities Reconciled"
+ BORDER_WAR_ATTRITION:0 "Attrition from Communist Partisan Activities: $VAL|=-%$"
+ BORDER_WAR_HEADER:0 "This state is affected by §RCommunist Partisan Activities§!."
+ BORDER_WAR_POWER:0 "\nThe communist guerilla forces is wreaking havoc in this region. Troops in the state will suffer from §Radditional attrition§!.\nTake £decision_icon_small §Hdecision§! §MCrack Down the Communists§H to eliminate them. However, they will come back over time unless @PRCCommunist China is eliminated."
+ BORDER_WAR_POWER_ENEMY:0 ""
+ TRIGGER_OVERLORD:0 "Overlord"
+ BORDER_WAR_POWER_RATIO:0 ""
+ #^revisit for Jap's version of counter insurgency
+ BORDER_WAR_WIN:0 ""
+ BORDER_WAR_LOSS:0 ""
+ BORDER_WAR_HINT:0 ""
+
+ TRIGGER_HAS_NOT_IDEA_FOREIGN_ADVISOR:0 "Does not have foreign advisor $IDEA|H$"
+ TRIGGER_HAS_IDEA_FOREIGN_ADVISOR:0 "Has foreign advisor $IDEA|H$"
+
+ TRIGGER_HAS_NOT_IDEA_INFLATION:0 "Is not affected by $IDEA|H$"
+ TRIGGER_HAS_IDEA_INFLATION:0 "Is affected by $IDEA|H$"
+ #scripted loc
+ communist_partisan_activites_tt:0 "Communist Partisan Activities"
+ communist_protests_tt:0 "Communist Protests"
+ TRIGGER_HAS_NOT_OFFENSIVE_WAR_WITH:0 "Is not in an offensive war with @$TAG$§Y$COUNTRY$§!"
+ EFFECT_END_BORDER_WAR:0 "§YEnds the Communist Partisan Activities.§!"
+ BORDER_WAR_NOT_OURS:0 "§HThere is Communist Partisan Activities in this state.§!"
+ #political_advisor:0 "Cabinet Ministers"
+ EFFECT_UNLOCK_DECISION:0 "Unlocks £decision_icon_small §HDecision§!: $NAME|H$$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY:0 "Unlocks £decision_icon_small $NAME|H$ Decisions."
+ CHI_instigate_xian_incident:0 "Stage Xi'an Incident"
+ CHI_instigate_xian_incident_desc:0 "Despite our constant pleading, [CHI.GetLeader] still wouldn't prioritize fending off the Japanese over eradicating the communists. It's time to try something new."
+ Join_our_Discord:0 "§MJoin our Discord!§!"
+ Modding_Coop:0 "§MModding Coop§!"
+ #Construction
+ #CONSTRUCTION_SPEED:0 "Construction speed: $SPEED|Y$"
+ #CONSTRUCTION_SPEED:0 "Overall construction speed: $SPEED|Y$"
+ MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR:5 "Overall Construction Speed"
+ #POLITICS
+ POLITICS_NEXT_ELECTION:0 "Next Election\n$DATE$"
+ neutrality_drift:0 "Daily Support for Reactionary"
+ neutrality_acceptance:0 "Acceptance of Reactionary Diplomacy"
+ DR_FACTION_NEUTRALITY:0 "Reactionary: "
+ DR_US_NEUTRAL:1 "§Y$US|U$§! is Reactionary: "
+ neutrality:0 "Reactionary"
+ neutrality_noun:0 "Reactionary"
+
+ #SOV allies
+ allies_soviet_bloc:0 "Allies - Soviet Bloc"
+ SOV_joined_allies:0 "Soviet Union Joins Allies"
+ yalta_conference_threat_ALLIES:0 "Allies Participation in Yalta Conference"
+ yalta_conference_threat_SOV:0 "Soviet Participation in Yalta Conference"
+ soviet_bloc:0 "Soviet Bloc"
+ Western_bloc:0 "Western Bloc"
+ sino_japanese_truce_threat:0 "Sino-Japanese Truce"
+ #Japan release China
+ RULE_ALLOW_RELEASE_NATIONS_NOT_JAP_TOOLTIP:0 "§Y[JAP.GetName]§! may not release this country if it supports other Chinese regime(s)."
+ RULE_ALLOW_RELEASE_NATIONS_NOT_WARLORDS_TOOLTIP:0 "§YChinese Warlords§! may not be released."
+ #electronics_research:0 "\nElectronics Research Speed"
+ #RESEARCH_TOTAL_BONUS:0 "Research Speed: $VAL$ \n"
+
+ #EAST FOCUS MESC
+ Nations_friendly:0 "Diplomatic Ties"
+ Nations_estrangement:0 "At Odds with Each Other"
+ CHI_national_salvation_front:0 "National Salvation Front"
+
+ #politics
+ POLITICS_IDEA_NO_REMOVE:0 "\n§W--------------§!\n§RCannot remove unless:§!\n"
+ #autonomy
+ autonomy_nra:0 "National Revolutionary Army"
+
+ #traits
+ lawrence_of_manchuria:0 "Lawrence of Manchuria"
+ japan_manchuria_goodwill_ambassadress:0 "Goodwill Ambassadress"
+ elder_statesman:0 "Elder Statesman"
+ puyi_loyalist:0 "Puyi Loyalist"
+ bureaucratic_drug_lord:0 "Bureaucratic Drug Lord"
+ film_industry_tycoon:0 "Film Industry Tycoon"
+ SMR_general_director:0 "S.M.R. Higher-up"
+ white_bao_gong:0 "White Bao-Gong"
+ opposition_bureaucrat:0 "Opposition Bureaucrat"
+ naval_expansionist:0 "Naval Expansionist"
+ royal_spymaster:0 "Royal Spymaster"
+ imperial_tutor:0 "Former Imperial Tutor"
+ trait_manchu:0 "Manchu"
+ trait_mongol:0 "Mongol"
+ trait_korean:0 "Korean"
+ trait_japanese:0 "Japanese"
+ devil_of_showa:0 "Devil of Showa"
+ RCM_infantry_expert:0 "Infantry  (Expert)"
+ RCM_morale_genius:0 "Army Morale  (Genius)"
+ RCM_regrouping_expert:0 "Army Regrouping (Expert)"
+ RCM_artillery_expert:0 "Artillery  (Expert)"
+ railway_conglomerate:0 "Railway Conglomerate"
+ transport_aircraft_manufacturer:0 "Transport Aircraft Manufacturer"
+ RCM_construction_company:0 "Construction Company"
+ RCM_steel_works:0 "Steel Conglomerate"
+ RCM_steel_works_2:0 "Steel Works"
+ RCM_machinery_manufacturer:0 "Machinery Manufacturer"
+ RCM_machinery_manufacturer_2:0 "Machinery Manufacturer"
+ xishan_doctrine:0 "Xishan Doctrine"
+ anti_axis_diplomat:0 "Anti-Axis Diplomat"
+ 
+ assassination_survivor:0 "Assassination Survivor"
+ 
+ autonomy_rcm_national_revolutionary_army:0 "Regional Army"
+ autonomy_rcm_provincial_government:0 "Provincial Government"
+
+ #OPINION MODIFIERS
+ WRL_insults:0 "Leadership Insulted"
+ WRL_insults_2:0 "Leadership Insulted"
+ WRL_insults_3:0 "Leadership Insulted"
+ WRL_insults_4:0 "Leadership Insulted"
+ WRL_insults_5:0 "Leadership Insulted"
+ WRL_propaganda:0 "Propaganda Target"
+ WRL_propaganda_2:0 "Propaganda Target"
+ WRL_propaganda_3:0 "Propaganda Target"
+ WRL_propaganda_4:0 "Propaganda Target"
+ WRL_propaganda_5:0 "Propaganda Target"
+ WRL_conflict_of_interest:0 "Conflict of Interest"
+
+ socialist_leanings_good:0 "Leftist leanings"
+ socialist_leanings_bad:0 "Leftist leanings"
+
+
+ the_moscow_Berlin_axis:0 "Moscow-Berlin Axis"
+ RCM_cooperation_with_the_communists_positive:0 "Cooperation with the Communists"
+ RCM_cooperation_with_the_communists_negative:0 "Cooperation with the Communists"
+ RCM_opposition:0 "Opposition"
+ RCM_cooperation_with_the_nationalists_positive:0 "Kuomintang Affliation"
+ RCM_cooperation_with_the_nationalists_negative:0 "Kuomintang Affliation"
+
+ #interservice desc
+ JAP_interservice_rivalry_desc:0 "The Imperial Navy and the Imperial Army are locked in a vicious conflict over our limited resources. We have instituted regular conferences to ensure our resources are spent in the right place. Favoring one over the other will have far-reaching consequences.\nDue the Sentiment within the IJA and IJN,\n§Mfavoring the Navy would alienate Germany;§!\n§Rfavoring the Army would anger [USA.GetNameDef].§!"
+
+ #sanction traits
+ neg_40_percent_modifier:0 "£RCM_supply Supply Condition: §R-40.0%§!"
+ neg_30_percent_modifier:0 "£RCM_supply Supply Condition: §R-30.0%§!"
+ neg_20_percent_modifier:0 "£RCM_supply Supply Condition: §R-20.0%§!"
+ neg_10_percent_modifier:0 "£RCM_supply Supply Condition: §R-10.0%§!"
+
+ prominent_lawyer:0 "Prominent Lawyer"
+ socialist_novelist_RCM:0 "Socialist Novelist"
+
+ gwtank:0 "Great War Tanks"
+
+ GATHERING_STORM_NAME:0 "Two Suns in the Sky"
+ GATHERING_STORM_DESC:0 "Tension has been building up in the Far East. In the Empire of Japan, Prime Minister Okada is struggling to maintain his rule due to the rising influence of the military. Even within the military, interservice rivaly is commonplace and a rising faction within the Army, the Imperial Way Faction, or the Kodoha, is causing nationwide unrest. Many officers within the Japanese military are advocating expansionism in one form or another. In the Republic of China, despite the completion of the Northen Expedition, the communists guerillas and the remaining warlords are still dividing the country. Chiang Kai-Shek, the leader of the Republic of China, believes that China must be pacified within before dealing with foreign threat, however, many figureheads within China disagrees, pointing out that defending against Japan's aggression is more important. The Future of Far East remains uncertain, but the Rising Sun and the Blue Sky and White Sun are certainly scorching the land of Far East with the raising tension between the two powers."
+ 
+ BLITZKRIEG_NAME:0 "War of Resistance"
+ BLITZKRIEG_DESC:0 "The Marco Polo Bridge Incident of 1937 has caused an all out war between the Empire of Japan and the Republic of China, putting the Far East into the flames of warfare and carnage once again. Despite Germany's attempt to mediate between the two conflicting powers at the early stage of the war, the Empire of Japan is uninterested in such intervention and responded by upholding this conflict as a "Holy War." The Republic of China, on the other hand, has yet to complete its encirclement campaign against the communists before the outbreak of the war and Chiang was forced to reach a truce with them during the Xi'an Incident of 1936, forcing him to focus on preparing against Japanese aggression. Unfortunately for China, such event did not stop the Japanese expansion and China has suffered tremendous casualties after the Battle of Shanghai, which took place a month after the initial incident. To China, the outcome of this conflict would be a matter of life and death. To survive as a nation, the War of Resistance will have to be won one way or another."
+ EHB_GATHERING_STORM_DESC:0 "With the Japanese advances into Chinese territories, some people have either lost all faith for the Central Government, or figured that working with the Japanese would be a more viable option. Either way, these people managed to negotiate with Japanese and created new alternative governments backed by them. Perhaps to some, what they are doing is high treason and unforgivable acts, but to them, it's either them or the Corrupted Central Government."
+ ECA_GATHERING_STORM_DESC:0 "In 1933, Li Shouxin's forces in Inner Mongolia clashed with the Imperial Japanese Army on the border with Manchukuo, and Li managed to down a Japanese aircraft. However, this opened the door to negotiations, and in exchange for weapons, money and supplies, Li defected to the Japanese side.\n\nIn late 1935 he commanded Manchukuo forces aiding the Japanese in seizing control of the eastern part of Chahar and became in charge of the region, which is now called the "East Chahar Autonomous Region.""
+ WARLORDS_GATHERING_STORM_DESC:0 "The weakness of the Central Government may yet provide the opportunity for a sufficiently ambitious man to rise to power. At the periphery of the country, local leaders have carved out their own little fiefdoms, caring little for the orders of the Central Government. \n\nWar is on the horizon, and each of these Warlords will have a lot of challenges to overcome in order to hold onto their regional dominance."
+ WARLORDS_BLITZKRIEG_DESC:1 "The war with Japan has forced the Chinese Warlords to pick a side, but there can be no doubt that this alliance is living on borrowed time. The day will come when it has outlived its usefullness, and on that day the game is once again open for every man ambitious and ruthless enough to make a play for the title of Ruler of China."
+ 
+
+ #GAME RULES
+
+ RULE_OPTION_SONNO_TOKAN:0 "Imperial Way Faction"
+ RULE_OPTION_SONNO_TOKAN_JAP_AI_DESC:0 "The Imperial Way Faction will take power."
+
+ RULE_OPTION_ALTERNATE_CHI_AI_DESC:0 "China will try to align itself with Germany and empower the Blue Shirts Society."
+ RULE_OPTION_OKADA_STAYS_TREATY_FACTION:0 "Okada Stays - Treaty Faction"
+ RULE_OKADA_STAYS_TREATY_FACTION_JAP_AI_DESC:0 "Okada will stay as the Prime Minister. Treaty faction will be empowered."
+ RULE_OPTION_OKADA_STAYS_STATE_SOCIALISM:0 "Okada Stays - State Socialism"
+ RULE_OKADA_STAYS_STATE_SOCIALISM_AI_DESC:0 "Okada will stay as the Prime Minister. Shakai Taishuto will be empowered."
+ RULE_OPTION_OKADA_STAYS_COMMUNISM:0 "Okada Stays - Communism"
+ RULE_OKADA_STAYS_COMMUNISM_JAP_AI_DESC:0 "Okada will stay as the Prime Minister. Nihon Kyosanto will be empowered."
+ RULE_OPTION_OKADA_STAYS_TOHOKAI:0 "Okada Stays - Tohokai"
+ RULE_OKADA_STAYS_TOHOKAI_JAP_AI_DESC:0 "Okada will stay as the Prime Minister. Tohokai will be empowered."
+
+ RULE_OPTION_PLACATE_MILITARY_KONOES_CABINET:0 "Placate the Military - Konoe's New Order Movement (Historical)"
+ RULE_PLACATE_MILITARY_KONOES_CABINET_JAP_AI_DESC:0 "The military will be placated. Konoe will formed his cabinet and seize power once the Imperial Japanese Army reached dominant influence. Focusing on expanding southward. A war with USA will be tough to avoid."
+ RULE_OPTION_PLACATE_MILITARY_YONAIS_CABINET:0 "Placate the Military - Yonai's Western Alignment"
+ RULE_PLACATE_MILITARY_YONAIS_CABINET_JAP_AI_DESC:0 "The military will be placated. Yonai will retain his cabinet and consolidate power once Imperial Japanese Navy reached dominant influence. Focusing on aligning with western powers and defending against the Soviets. Germany and the Soviets could take drastic measures against Japan."
+
+ RULE_OPTION_PRO_JAP_CHINA:0 "Acknowledge Hirota Sangensoku"
+ RULE_OPTION_PRO_JAP_CHINA_CHI_AI_DESC:0 "The Central Government of China will accept Japanese demands and align itself with them."
+ RULE_OPTION_BLUESHIRTS:0 "Blue Shirts Society"
+ RULE_OPTION_BLUESHIRTS_CHI_AI_DESC:0 "Blue Shirts Society will be empowered and take over China. China will try to align itself with Germany."
+
+ maintheme:0 "Miguel Johnson - Good Day To Die (Creative Commons Attribution license)"
+
+ refounder_of_japan:0 "Refounder of Japan"
+ 
+ 
+ marine_tech_research:0 "§YMarine Tech. Research Speed§!"
+ mountaineers_tech_research:0 "§YMountaineer Tech. Research Speed§!"
+ para_tech_research:0 "§YParatrooper Tech. Research Speed§!"
+
+ news.334.b:0 "It was a valid target." #per request of indyclone
+ CHI_army_corruption_3:0 "Army Corruption - No Special Force Experience"
+
+ RCM_tutorial_name:0 "Welcome Message"
+ RCM_tutorial_on:0 "Enable Welcome Message"
+ RCM_tutorial_on_tt:0 "Enable Welcome Message"
+ RCM_tutorial_on_tt_desc:0 "Enable Welcome Message"
+ RCM_tutorial_off:0 "Disable Welcome Message"
+ RCM_tutorial_off_tt:0 "Disable Welcome Message"
+ RCM_tutorial_off_tt_desc:0 "Disable Welcome Message"

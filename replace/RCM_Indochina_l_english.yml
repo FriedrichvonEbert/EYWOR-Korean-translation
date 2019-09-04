@@ -1,0 +1,28 @@
+﻿l_english:
+#Events
+ rcmindochina.1.t:0 "A new Governor-General Appointed"
+ rcmindochina.1.d:0 "The new government of Léon Blum has chosen to appoint Jules Brévié, former governor of French West Africa, as governor of French Indochina, in order to appease the social agitation in the colony. He will replace the unpopular René Robin."
+ rcmindochina.1.a:0 "Wish him luck."
+ rcmindochina.2.t:0 "Georges Catroux appointed as Governor-General of Indochina"
+ rcmindochina.2.d:0 "With tensions rising both in Europe and in Asia, the French government has sent a strong signal, announcing the appointment of Général Catroux as new Governor-General of Indochina. France seems ready to defend her Empire."
+ rcmindochina.2.a:0 "France will fight for her Empire, and her Empire will fight for France."
+ rcmindochina.3.t:0 "Jean Decoux appointed as Governor-General of Indochina"
+ rcmindochina.3.d:0 "The Pétain Government has announced the nomination of the admiral Jean Decoux as Governor-General of Indochina,in order to ensure the loyalty of her colony."
+ rcmindochina.4.t:0 "Defect to Free France?"
+ rcmindochina.4.d:0 "Governor-General Georges Catroux has shown sympathy to the Free French cause,and rumors says his days in office will soon be over. If there's a time to act, it's now."
+ rcmindochina.4.a:0 "Indochina will answer De Gaulle's call."
+ rcmindochina.4.b:0 "It's too risky."
+ rcmindochina.5.t:0 "Indochina joins us!"
+ rcmindochina.5.d:0 "Governor-General Georges Catroux has announced his decision to join Free France. We can now count on Indochinese resources in our struggle for Libération."
+ rcmindochina.5.a:0 "Great."
+ rcmindochina.6.t:0 "Indochina defects"
+ rcmindochina.6.d:0 "General Georges Catroux has announced his defection to the gaullist traitors. Indochina is now under their control, but surely not for long."
+ rcmindochina.6.a:0 "He will be punished like all his gaullist friends."
+
+ #Decisions
+ VIC_indochinese_politics:0 "Indochinese Politics"
+ VIC_remove_catroux:0 "Remove Georges Catroux"
+ VIC_remove_catroux_desc:0 "To avoid the defection of our Empire to the traitorous gaullist mercenaries, we should appoint loyal governors in our colony. Jean Decoux is one of them."
+
+ #Flags
+ fall_of_france:0 "Fall of France"

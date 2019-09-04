@@ -1,0 +1,58 @@
+﻿l_english:
+ #The 'Empire of China' was finalizing purchase of a large quantity of these ships just prior to victory of the Northern Protection Alliance.
+ CHI_submarine_1:0 "H Class"
+ CHI_submarine_1_desc:0 "The Holland 602 was one of the most numerous submarines of WWI. It displaces over 350 tons and mounts four 457mm torpedo tubes and a 47mm deck gun. A number of these vessels were ordered from the Electric Boat Company, but the deal collapsed with the Empire of China."
+ #Ordered 2-5 on the outbreak of war
+ CHI_submarine_2:0 "D Class"
+ CHI_submarine_2_desc:0 "The German Type II submarine was a single hull, all welded coastal submarine with internal ballast tanks. It displaces over 250 tons and mounts three 533mm torpedo tubes with a 2cm anti-aircraft gun. The Naval Plan of 1930 called for 24 costal submarines of similar operational abilities."
+ #Bridging Class, theoretical
+ CHI_submarine_3:0 "M Class"
+ CHI_submarine_3_desc:0 "The American Gato class was the first US mass-production submarine of WW2. The Gato class was a was designed a fleet submarine and had high surface speed, long range, and heavy armament. The Gato class was a 'partial' double hull submarine with the outer hydrodynamic and inner pressure-hull merged at the torpedo bulkheads. Displacing just over 1500 tons the main armament for the Gato class is six forward 533mm torpedoes and four aft supplemented by a 7.6cm/L50 deck gun and a 12.7mm machine gun."
+ #Post-War purchase
+ CHI_submarine_4:0 "Hai Shih Class"
+ CHI_submarine_4_desc:0 "The Hai Shih Class submarines are American Balao class and Trench class submarines upgraded under the GUPPY II program. Using lessons learned from the German Type XXI testing, the American GUPPY program was aimed at improving underwater performance. Snorkels where added, the deck gun was removed, battery wells where enlarged, and hulls where streamlined. GUPPY II boats typically displaced 1800 tons and where armed with six forward 533mm torpedoes and four aft."
+ #Bridging class, theoretical
+ CHI_destroyer_2:0 "Yulong Class"
+ CHI_destroyer_2_desc:0 "The Yulong Class is a hypothetical class of destroyer designed to meet the requirements of the 1930 Naval Plan. The plan called for 28 destroyers of this and subsequent classes. In following of ROCN pre-war design practices, main armament would have likely been limited to 'single purpose' mountings and ASW equipment would have been minimal. The Yulong Class would likely have been similar in size and armament to the Mutsuki-class."
+ #Post-War Spoils
+ CHI_destroyer_3:0 "Tan Yang Class"
+ CHI_destroyer_3_desc:0 "The Tan Yang is a modernized Kagerō-class destroyer. The ship is fitted with a radar and improved ASW systems. Anti-Aircraft capability has been greatly improved by upgrading the anti-aircraft guns to eight 40mm Bofors. The biggest change of all was the replacement of the three dual mount 12.7cm/L50 turrets with single mount 12.7cm/L38 in open ring mounts which improves the main gun anti-aircraft ability and increase the main-armament's aggregate rounds-per-minute."
+ #Post-War Purchase
+ CHI_destroyer_4:0 "Chao Yang Class"
+ CHI_destroyer_4_desc:0 "The Chao Yang class are American Gearing class destoryers. The Gearing are slightly larger Allan M. Sumners class, displacing 3400 tons. As launched the Gearing class has six 127mm/L38 guns in twin mounts, a dozen 40mm Bofors, eleven 20mm Oerlikon cannon, ten 533mm torpedo tubes, and heavy ASW armament. The larger size of the Gearing class allows for greater range and more upgrade potential."
+ #Bridging Class, theoretical
+ CHI_light_cruiser_2:0 "Hai Bian Class"
+ CHI_light_cruiser_2_desc:0 "The Hai Bian Class is a hypothetical class of light cruiser designed to meet the requirements of the 1930 Naval Plan. The Hai Bian class would have likely served both as flotilla leaders and fast escort, and would have an emphasis on speed in their design. These ships would have likely been similar in size, performance, and armament to the Sendai-class. The 1930 Naval Plan called for two light cruisers."
+ #Post-War Restitution
+ CHI_light_cruiser_3:0 "Chongqing Class"
+ CHI_light_cruiser_3_desc:0 "The Chongqing class is a modernized British Arethusa class light cruiser. Introduced as a cost-effective supplement to the Leander class, the Arethusa class was designed with trade protection in mind, but also with the capacity to serve as a fleet cruiser. In it's late-war configuration the ship has been retrofitted with radar with independent ranging units for the ship's anti-aircraft batteries. Main guns on the ship are six 15.2cm/L50 in twin turrets, supplemented with six torpedo tubes and very heavy anti-aircraft armament."
+ #Filler
+ CHI_light_cruiser_4:0 "Guandong Class"
+ #Revolution Heroes, all theoretical
+ CHI_heavy_cruiser_1:0 "Yat Sen Class"
+ CHI_heavy_cruiser_1_desc:0 "The Yat Sen Class is a hypothetical class of heavy cruiser designed to meet the requirements of the 1930 Naval Plan. The Yat Sen Class would have operated as heavy carrier escorts. Following ROCN preferences the ship would have foregone torpedo tubes entirely and would have focused on the heaviest main armament possible. The Yat Sen Class would likely have been similar in overall size, performance, and armament to the Furutaka-class."
+ #Song Jiaoren
+ CHI_heavy_cruiser_2:0 "Jiaoren Class"
+ #Chen Qimei
+ CHI_heavy_cruiser_3:0 "Qimei Class"
+ #Huang Xing
+ CHI_heavy_cruiser_4:0 "Xing Class"
+ #Famous Naval Figures, all theoretical
+ #Deng Shichang
+ CHI_carrier_1:0 "Shichang Class"
+ CHI_carrier_1_desc:0 "Plans for a Chinese aircraft carrier where submitted to the Navy Department in 1928, with overall plans for a small carrier-centric fleet submitted in 1930. The Shichang is a hypothetical class that would have tested the capabilities of China's ship-building industry. The ship would have been comparable in size and performance to early inter-war fleet carriers like the Hōshō."
+ #Koxinga - Zheng Chenggong
+ CHI_carrier_2:0 "Cheng Gong Class"
+ CHI_carrier_2_desc:0 "The Cheng Gong Class is a hypothetical class designed to meet the ROCN post-armistice reconstruction plans. The Cheng Gong would have been designed with littoral operations in mind. Size and performance would have been greatly limited by China's naval technical and production abilities. Work was never started due to the Chinese Civil War."
+ #Chen Huacheng
+ CHI_carrier_3:0 "Admiral Huacheng Class"
+# Republic of China Navy (1911-1937) Naming Conventions:
+# They are still using certain Chinese words as suffix on ship's name except for Survey Vessels
+# Yong: Large Gunboats
+# Hai: Smaller Gunboats
+# Li: No specific kind of ship uses this name.
+# An: Transports
+# Sheng: Converted Gunboats
+# Hai: Light Cruisers
+# Ling: Patrol Gunboats
+# Survey Vessels: Traditional Chinese Solar Term
