@@ -1,0 +1,16 @@
+﻿l_english:
+ rcmflavor.1.t:0 "The Death of Lin Sen"
+ rcmflavor.1.d:0 "After a car accident three months ago and a period of deteriorating health, Lin Sen, who served as Head of State since 1932, has died today, aged 76.\n\nLin fought the Japanese during the invasion of Taiwan, and joined the Tongmenghui in 1905. He followed Sun Yat-sen and served as governor of Fukien. After the death of Sun, he formed the Western Hills Group, a right-wing faction of the Kuomintang advocating for the purge of the Communists. The Japanese invasion of Manchuria forced Chiang Kai-shek to resign in 1931, and Lin was appointed to succeed him as Chairman of the National Government of China although serving as a mere figurehead. Though he had little influence on public policy, Lin was highly respected by the public as an august elder statesman who was above politics. As he was in hospice, he urged the recovery of Taiwan. While [ROOT.GetLeader] have took over the office of head of state, a month of mourning has been declared."
+ rcmflavor.1.a:0 "He will be missed."
+
+ rcmflavor.2.t:0 "The Death of the last Genro"
+ rcmflavor.2.d:0 "Saionji Kinmochi, the last surviving genro, prince and twice Prime Minister of Japan, has died today. A close friend of Hirobumi Ito, Kinmochi studied in Europe and served as ambassador in various countries, before joining the Rikken Seiyūkai after his foundation. He also led the japanese delegation at the Paris Peace Conference in 1919. As a Genro, he advised the Emperor, notably on the choice of prime ministers. He was one of the Emperor's most liberal advisors, trying to diminish the influence of the Imperial Japanese Army in political issues, and favoring friendly relations with Great Britain and the United States. This elder statesman was aged 91."
+ rcmflavor.2.a:0 "Farewell, Genro."
+ 
+ rcmflavor.3.t:0 "The Death of Isoroku Yamamoto"
+ rcmflavor.3.d:0 "Admiral Yamamoto, commander-in-chief of the Combined Fleet, was on an inspection tour when his plane, a Mitsubishi G4M1, was shot down by american pilots. While his remains have been found, the more violent details of his death were hidden from the Japanese public. He will be given a state funeral."
+ rcmflavor.3.a:0 "A great loss in the war."
+
+ lin_sen_dead:0 "Lin Sen is dead"
+ saionji_kinmochi_dead:0 "Saionji Kinmochi is dead"
+ yamamoto_dead:0 "Yamamoto's plane has been shot down"

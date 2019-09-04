@@ -1,0 +1,38 @@
+﻿l_english:
+###EVENTS###
+ rcmfrance.1.t:0 "Left-wing Coalition Won the Election"
+ rcmfrance.1.d:0 "The Popular Front, composed of the French Section of the Workers' International (SFIO), the Radical-Socialists, the French Communist Party (PCF), and miscellaneous leftists, won power from the broad Republican coalitions that had governed since the 6 February 1934 crisis in the recent election. For the first time, Parti Radical were eclipsed on the democratic left by the SFIO, while still keeping a considerable role in French politics."
+ rcmfrance.1.a:0 "For the Front Populaire!"
+ rcmfrance.2.t:0 "Pierre Laval resigns"
+ rcmfrance.2.d:0 "The growing unpopularity of the Laval government, mostly caused by his attempts to reach an agreement with Italy during the Abyssinan crisis, has forced prime minister Pierre Laval to resign."
+ rcmfrance.2.a:0 "Albert Sarraut will form a new government."
+ rcmfrance.3.t:0 "Leon Blum resigns"
+ rcmfrance.3.d:0 "Facing growing opposition in the press and unable to accomplish all the reforms promised to his electors, Léon Blum, the leader of the Popular Front has chosen to resign. The coalition seems more divided than ever."
+ rcmfrance.3.a:0 "Is this the the end of the Front Populaire?"
+ rcmfrance.4.t:0 "Camille Chautemps resigns"
+ rcmfrance.4.d:0 "After the annexation of Austria by Germany, french prime minister Camille Chautemps, unable to manage an international crisis, has chosen to resign."
+ rcmfrance.4.a:0 "Recall Leon Blum."
+ rcmfrance.5.t:0 "Leon Blum resigns"
+ rcmfrance.5.d:0 "Unable to get all the power he wanted from the parliament to accomplish his reforms, Leon Blum, prime minister for less than one month, has been overthrown by the Senate. Édouard Daladier will succeed him."
+ rcmfrance.5.a:0 "We shall get France back to work."
+ rcmfrance.6.t:0 "Édouard Daladier is overthrown"
+ rcmfrance.6.d:0 "After the non-intervention of France during the Winter War between Finland and Soviet Union, prime minister Édouard Daladier has been overthrown by the Senate."
+ rcmfrance.6.a:0 "Paul Reynaud will form a new government."
+ rcmfrance.7.t:0 "Général Catroux joins Free France"
+ rcmfrance.7.d:0 "After his replacement by Jean Decoux as governor-general of Indochina , Georges Catroux took a boat for the Métropole. It seems like his return will be delayed for a little bit, as, during his stop at Singapour, he announced his allegiance to Free France. As a five-star general, Catroux's skill will probably prove very useful for the Libération."
+ rcmfrance.7.a:0 "Great news!"
+ rcmfrance.8.t:0 "Return of French Territories"
+ rcmfrance.8.d:0 "After the Yalta conference and the end peace agreement between the powers, the war in Europe has finally come to a close. With the reclamation of Free France, we shall return our occupied lands there to them."
+ rcmfrance.8.a:0 "Sure!"
+ rcmfrance.9.t:0 "Return of French Territories"
+ rcmfrance.9.d:0 "After the Yalta conference and the end peace agreement between the powers, the war in Europe has finally come to a close. With the reclamation of Free France, [From.GetName] has reached out to us and return their occupied lands in France proper."
+ rcmfrance.9.a:0 "Reunified, at long last."
+###DECISIONS###
+ 
+
+ ###FLAGS###
+ fall_of_france:0 "Fall of France"
+ 
+ ###IDEAS###
+ #General
+ #Ministers

@@ -1,0 +1,423 @@
+﻿l_english:
+ socialism_on_the_rise:0 "Socialism on the Rise"
+ socialism_on_the_rise_desc:0 "Vocal political elements have begun to speak up in favor of socialist values, finding support with an increasing number of the population. The nation's path to socialism lies open, merely awaiting the choice of peaceful or violent transition."
+ prepare_for_socialist_civil_war:0 "Prepare for Civil War"
+ prepare_for_socialist_civil_war_desc:1 "We have no time to wait for the slow changes in the minds of the people. For their own sake, we must force the matter swiftly, even if some may lose their lives in the process. Unlike a peaceful referendum, a civil war will cause tremendous devastation to our armed forces and the country's industry and infrastructure, but it is also quicker, and ensures we will be able to force our will through more forcefully afterwards."
+ expand_civil_socialist_support:0 "Expand Civil Support"
+ expand_civil_socialist_support_desc:1 "We must ensure the continuing spread of support for our cause among the people, and encourage them to publically challenge the authority of the present government. As the position of the government is increasingly undermined and civil unrest continues to mount, it will become easier for us to achieve our goals. This holds especially true if, unlike a legal change in government, these goals involves a more... sinister means of regime change."
+ army_support_for_socialist_civil_war:0 "Expand Military Support"
+ army_support_for_socialist_civil_war_desc:0 "Without ample support of the military, any hope of victory in an armed ideological struggle would be vain. We must ensure the loyalty of well-placed units of our military forces."
+ army_support_TT:0 "Each time army support is increased, 10% is added to the strength of your faction in the civil war, up to a maximum total strength of 70%.\n"
+ ensure_general_loyalty_for_socialist_civil_war:1 "Ensure Lower Army Command Loyalty"
+ ensure_general_loyalty_for_socialist_civil_war_desc:0 "It is possible certain generals harbor secret sentiments in favor of socialism. We must approach them and ensure their loyalty for when the fighting starts."
+ ensure_marshal_loyalty_for_socialist_civil_war:0 "Ensure Upper Army Command Loyalty"
+ ensure_marshal_loyalty_for_socialist_civil_war_desc:0 "It is possible certain field marshals harbor secret sentiments in favor of socialism. We must approach them and ensure their loyalty for when the fighting starts."
+ siphon_equipment_stockpiles_for_socialist_civil_war:0 "Siphon Equipment"
+ siphon_equipment_stockpiles_for_socialist_civil_war_desc:0 "By skimming the nation's equipment stores we can create a minor cache of weaponry to aid us in our future struggle."
+ formulate_surprise_attack_plan_for_socialist_civil_war:0 "Formulate Surprise Attack Plan"
+ formulate_surprise_attack_plan_for_socialist_civil_war_desc:0 "The enemy has no idea of the impending calamity. We must ensure this remains so, all the while directing our battle plans to make maximum use of the element of surprise."
+ formulate_surprise_attack_plan_for_civil_war_tt:0 "The Surprise Attack Plan gives a 25% attack bonus to all divisions on core territory, for 30 days.\n"
+ ignite_the_socialist_civil_war:0 "Ignite Civil War"
+ ignite_the_socialist_civil_war_desc:0 "The time has come to take the plunge. All preparations we deemed necessary have been made. There is no turning back now."
+ rebuild_the_nation_n_socialism:0 "Rebuild the Nation"
+ rebuild_the_nation_n_socialism_desc:0 "After the civil war, the time has now come to rebuild our ruined nation."
+ open_up_political_discourse_socialist:0 "Open Up Political Discourse"
+ open_up_political_discourse_socialist_desc:1 "We must open up the acceptance of diverging viewpoints in the government. Perhaps this will eventually make it possible to affect a peaceful change in the politics of our nation."
+ discredit_government_n_socialism:0 "Discredit Government"
+ discredit_government_n_socialism_desc:0 "By pointing out our current government's many flaws we can make people think about the ideological causes of these failures."
+ hold_the_socialist_national_referendum:0 "Hold National Referendum"
+ hold_the_socialist_national_referendum_desc:0 "With sufficient support, we may now safely hold a referendum to affect a change of government, without bloodshed."
+ #ECONOMY crisis
+ also_tt:0 "\n§YAlso§! "
+ less_than_100_sc_tt:0 "Less than §Y100%§! Supply Condition"
+ for_180_days:0 "\n§YFor 180 days:§!\n"
+ improved_supply_conditions:0 "Improve Supply Conditions"
+ RCM_plunder_occupied_industries:0 "Plunder Occupied Territories"
+ RCM_plunder_occupied_industries_desc:0 "Our military advancement is progressing well. We shall make use of the assets of our occupied territories."
+ economic_crisis_decisions:0 "Economy Relief"
+ economic_crisis_decisions_desc:0 "Our economy is showing signs of instability, measures need to be taken to resolve the situation, or it could lead our country to an unforeseen dark path."
+ RCM_divert_our_military_production:0 "Divert Military Idustrialization"
+ RCM_divert_our_military_production_desc:0 "The rapid industrialization and mobilization has destablized our economy. Divert our military idustrialization should ease that problem."
+ RCM_rationing:0 "Economy Planning"
+ RCM_rationing_desc:0 "Plan our Economy with national guidance and political might, along with ration our supply would help stabilize our economy."
+ RCM_defensive_mob_decision:0 "Defensive Mobilization"
+ RCM_defensive_mob_decision_desc:0 "Our country is at war! We need to defend our homeland at all cost!"
+  ##
+ #2g
+ 
+ CHI_liangguang_incident:0 "Stage Liangguang Incident"
+ CHI_liangguang_incident_desc:0 "We can't allow [WTT_current_china_leader.GetLeader] to continue his dictatorship. We shall seek support from the Guangdong Clique to form an united front."
+ liangguang_incident:0 "Liangguang Incident"
+
+ #anti_japanese CHI_suppress_anti_japanese_activity
+ CHI_suppress_anti_japanese_activity:0 "Suppress Anti-Japanese Activities"
+ CHI_suppress_anti_japanese_activity_desc:0 "After our alliance with Japan, there's a lot of disgruntled voices within the country trying to destroy this newly-formed alliance. If we allow this to continue, a nationwide civil war could break out in the near future."
+ CHI_suppress_anti_japanese_sentiment:0 "Suppress Anti-Japanese Sentiment"
+ CHI_civil_unrest_build_up:0 "Civil Unrest Builds Up"
+
+ ######
+ japan_form_CHI_puppets:0 "Form Puppet Governments in China"
+ japan_form_CHI_puppets_desc:0 "Due to the toxic human nature of rejecting the new and the grand scale of our operations, proxy governments need to be put in place in order for our campaigns to proceed smoothly. We can't risk disrupting our operations simply because of some ineffective occupation policies."
+ japan_form_IN_MON_puppets:0 "Form Puppet Governments in Inner-Mongolia"
+ japan_form_IN_MON_puppets_desc:0 "There are plenty of ethnic Mongols live in the Inner-Mongolia region, which had been under Chinese control for a long time. Most of them aren't a fan of the Chinese government either. We can use that fact to our advantage."
+ #####
+ JAP_form_CCP_mission:0 "Shanghai Crisis"
+ JAP_form_CCP_mission_desc:0 "Our rule in Shanghai is very unpopular now, this can end very badly unless we set up a proxy government in time."
+ JAP_form_CCP:0 "Form @CCP[CCP.GetNameDef]"
+ #
+ JAP_form_RFM_mission:0 "Nanking Crisis"
+ JAP_form_RFM_mission_desc:0 "Our rule in Nanking is very unpopular now, this can end very badly unless we set up a proxy government in time."
+ JAP_form_RFM:0 "Form @RFM[RFM.GetNameDef]"
+
+ JAP_form_JNC_mission:0 "North China Crisis"
+ JAP_form_JNC_mission_desc:0 "Our rule in China Crisis is very unpopular now, this can end very badly unless we set up a proxy government in time."
+ JAP_form_JNC:0 "Form @JNC[JNC.GetNameDef]"
+
+ JAP_form_RRC_mission:0 "Puppet Governments Unstable"
+ JAP_form_RRC_mission_desc:0 "Our rule in China Crisis is very unstable now, this can end very badly unless we set up a new, reorganized proxy government in time."
+ JAP_form_RRC:0 "Form @RRC[RRC.GetNameDef]"
+
+ JAP_form_MEJ_mission:0 "The Mongols Demand a Merger"
+ JAP_form_MEJ_mission_desc:0 "After taking over a few more states in South Chahar and North Shanxi, the Mongols now demand a merger of their government and those territories. Failed to do so in time can destablize our rule."
+ JAP_form_MEJ:0 "Form [MEJ.GetNameDef]"
+
+ JAP_form_MUA_mission:0 "The Mongols Demand Another Assembly"
+ JAP_form_MUA_mission_desc:0 "After the war broke out the Proxy Government in Mongolia has suffered from the ineffective bureaucracy of the outdated political framework. It's time to hold another 'Assembly of the Mongols'."
+ JAP_form_MUA:0 "Second Assembly of the Mongols"
+
+ #JAP_form_MEN_mission:0 "Form Puppet Governments in China"
+ JAP_form_MEN:0 "Puppet for the Mongols"
+
+ JAP_bribe_the_tokko:0 "Influence the Tokkō"
+ JAP_bribe_the_tokko_desc:0 "The political climate in Japan is very tense now. With the ever growing military and shady secret police, a political reform can never happen. However, we might be able to influence some of those groups to further our cause.\n\n§YTake this decision once or multiple times can lower the chance of Prime Minister's assassination in the case of a reform.§!"
+ JAP_bribe_the_tokko_decision:0 "Influence the Tokkō"
+ #JAP_bribe_the_tokko_decision_desc:0 "Influence the Tokkō"
+ JAP_revise_hiro_san_decision_cat:0 "Revise Hirota Sangensoku"
+ JAP_revise_hiro_san_decision_cat_desc:0 "Hirota Sangensoku, literally "Hirota's Three Principles", was promulgated by Kōki Hirota as the definitive statement of Japan's position towards China, which includes the recognition of Manchuria.\n\nHowever, since the Chinese are reluctant to do so, perhaps a new negotiation should be brought up again to promote peace and prosperity in Asia.\n\n§YNegotiate a deal with China.§!\n§WIn the deal, our government will§! §Rcede concessions§! §Wor§! §Rcancel certain puppets§! §Win China in exchange for their §!§Galliance§! §Wand§! §Grecognition of Manchuria's independence§!§W.§!\n\n§YHaving§! §RPan-Asianists§! §MCabinet Ministers§! and §Yoffering the deal when China has a stronger§! §RAppeasement Policy§! would make China §Ymore willing§! to accept the alliance."
+ JAP_negotiate_with_china:0 "Negotiate with China"
+ JAP_give_up_alliance_decision:0 "Give up the Negotiation"
+ JAP_give_up_alliance_declare_war:0 "War with China"
+ JAP_give_up_alliance_non_aggression:0 "Non-aggression Pact with China"
+ JAP_china_leaves_alliance_declare_war:0 "War with China"
+ CHINA_breached_alliance_cat:0 "China Breached Our Alliance"
+ CHINA_breached_alliance_cat_desc:0 "The Chinese have decided to cut ties with us. This is a significant breach of trust and they will pay for betraying us! Death to the traitors!"
+ CHI_Japan_justifying_on_us_cat:0 "Japan is Justifying Wargoal on Us!"
+ CHI_Japan_justifying_on_us_cat_desc:0 "Due to various reasons, Japan has been angered by our recent actions and decided to justify a potential war on us. We need to prepare for imminent war now!"
+ CHI_Japan_justifying_on_us:0 "Japan is Justifying Wargoal on Us!"
+ #CCW tension
+ CHI_tension_with_communists_cat:0 "Tension with [WTT_communist_china.GetName]"
+ CHI_tension_with_communists_cat_desc:0 "After the end of the War of Resistance against Japan, the tension between [WTT_communist_china.GetName] and our governemnt has been building up again. After the devastation of Japanese invasion, no one wants to fight another war again. We should now hold a §YPolitical Consultative Assembly§! and try to negotiate a deal or a civil war will be imminent."
+ CHI_tension_with_communists:0 "Tension with [WTT_communist_china.GetName] Builds Up"
+ CHI_tension_with_communists_desc:0 "We can do national focus §YPolitical Consultative Assembly§! to try negotiate a deal with [WTT_communist_china.GetName], or prepare for war before the tension reaches a breaking point."
+ ###
+ CHI_sue_for_peace_JAP:0 "Offer Peace to Japan"
+ lushan_declaration:0 "Lushan Declaration"
+ lushan_declaration_desc:0 "Our country is at war. A powerful speech is needed to united this fragmented country."
+ sedentarize_population:0 "Sedentarize Population"
+ sedentarize_population_desc:0 "Now that we are the main power in China, the majority of our workforce is no longer made of nomads, allowing our industry to grow at an unprecedented speed."
+ opposition_clashes_with_CHI:0 "Opposition Clashes with Central Authorities"
+ opposition_clashes_with_CHI_desc:0 "The conflict between the growing oppositional power, [scp_war_opposition_leader.GetName] and the central authority leading by [WTT_current_china_leader.GetLeader] has now escalated into a full blown civil war. Is there still hope for this fragmented nation?"
+
+ recovery_effort:0 "Recovery Effort"
+ recovery_effort_desc:0 "Our society and government are suffering from shortages and low morale. Recovery effort is needed to unite the people of [Root.GetName]."
+ recover_from_the_long_march:0 "Recover From the Long March"
+ recover_from_the_long_march_desc:0 "[Root.GetName] has suffered a lot from the devastation caused by the Long March. We will have to recovery from it in order to survive the constant barrage inflicted by the nationalists and other warlords."
+ recovery_reversed_tt:0 "\n§RRecovery effort will be reversed if our stability does not meet the prerequisite.§!"
+ national_infra_decision:0 "National Infrastructure Projects"
+ national_infra_decision_desc:0 "Infrastructure is the foundation of our society, indrustry, and most importantly, our great nation. Thus, in order to prosper we must first rebuild our national infrastructure from the ground up."
+
+ northeast_infra_effort:0 "Infrastructure Effort in the Northeast"
+ north_china_infra_effort:0 "Infrastructure Effort in North China"
+ central_china_infra_effort:0 "Infrastructure Effort in Central China"
+ south_china_infra_effort:0 "Infrastructure Effort in South China"
+ west_china_infra_effort:0 "Infrastructure Effort in West China"
+ sinkiang_region_infra_effort:0 "Infrastructure Effort in the Sinkiang Region"
+ tibet_region_infra_effort:0 "Infrastructure Effort in the Tibetan Region"
+ mongol_region_infra_effort:0 "Infrastructure Effort in the Mongol Region"
+
+ monetary_reform_decision:0 "Monetary Reform"
+ monetary_reform_decision_desc:0 "The Silver Standard economy that has served us for ceturies now due to the shortage of silver it has been rendered obsolete. A monetary reform can help us put our curreny on fiat money."
+
+ CHI_fight_corruption:0 "Fight Corruption"
+ CHI_fight_corruption_desc:0 "Corruption within our government is a blight on our national integrity. Effort needs to be made in order to rid our nation from such practices."
+
+ RCM_communist_infiltration:0 "Partisan Offensive"
+ RCM_communist_infiltration_desc:0 "In order to win the war against both the nationalists and the imperialists, a series of partisan activities will be launched against them. Once we've garnered enough support, up we rise!\n\n§YUnlocks the ability to spread communist partisan activities and launch operations.§!"
+ send_in_the_partisans:0 "Send in the Partisans"
+ send_in_the_partisans_desc:0 "Partisans activities can disrupt our enemies, and then we can turn the table to our favor later on."
+ contact_the_partisans:0 "Contact Guerillas in the Northeast"
+ contact_the_partisans_desc:0 "The communist guerilla has fought hard against the evil emperial puppet Manchoukuo. Now we had made our progress, it's time to combine our influence."
+ prepared_for_operation_decision:0 "Prepare for Operation"
+ prepared_for_operation_decision_desc:0 "Sufficient preparations are needed in order to lanch an infiltration campaign or uprsing."
+ RCM_communist_crackdown:0 "Suppress Communist Activities"
+ RCM_communist_crackdown_desc:0 "[Root.GetCrackdownCatdesc]"
+ RCM_communist_crackdown_desc_crackdown:0 "The communist partisans have infiltrated our territories during this time of unrest. We need to take action quickly before it's too late. We will crack them down hard, and sweep every single one of them out of our territories!"
+ RCM_communist_crackdown_desc_joingov:0 "The communist supporters are riling up people against our leadership after they joined the Government. If their activities go uncontrolled, the integrity of our nation will be at stake. In order to restore order of our nation, their vile hate-mongering will have to be stopped."
+ prepared_for_operation_tt:0 "Gains National Spirits §YPrepare for Operation§!, which grants §Gone time use§! of §MStage Uprisings§! or §MInfiltration Campaign§!."
+ RCM_communist_infiltration_tt:0 "\n§YPartisan Offensive§! can stir up Communist Partisan Activities in different states.\n\n§MOperations can be launched in an affected state of choice through a panel that will appear next to the state window.§!"
+ RCM_communist_crackdown_decison:0 "[Root.GetDisperseorCrackdown]"
+ RCM_communist_crackdown_decison_disperse:0 "Disperse Communist Rallies"
+ RCM_communist_crackdown_decison_crackdown:0 "Crack Down the Communists"
+ RCM_scout_communist_activities_decison:0 "Scout Communist Activities"
+ RCM_scout_communist_activities_mission:0 "Send in Reinforcements"
+ RCM_communist_crackdown_hold_land_mission:0 "Crack Down the Partisans"
+ RCM_communist_amass_support_mission:0 "Amass Support in [amass_support_flag_temp.GetName]"
+ states_with_communist_support_will_join_commie:0 "States with §RCommunist Support (cores)§! will join @PRC§Y[WTT_communist_china.GetName]§!.\n"
+ same_thing_would_happen_if_we_declare_war_on_them:0 "§MSame thing would happen if we declare war on them.§!\n"
+
+ unit_731_cat:0 "Men Behind the Sun"
+ unit_731_cat_desc:0 "Alleged Japanese Human Experiment on Chinese civilians for biological warfare has caused widespread public unrest in Manchoukuo. What measures should we take in response?"
+ men_sun_remove_expose:0 "Expose the Lies"
+ men_sun_remove_expose_desc:0 "In order to regain our public trust, we need to exposed the lies that has been told to hide the atrocities of Unite 731."
+ men_sun_remove_cover_up:0 "Cover it Up"
+ men_sun_remove_cover_up_desc:0 "It is important for us to cover up the secret and potentially controversial research method implemented by the Japanese Authority here in Manchuria. Or the public unrest can be devastating."
+ PLM_political_effort_decision_cat:0 "Reorganize Mongol Committee"
+ if_approved_tt:0 "§GIf approved:§!\n"
+ MAN_CHI_peace:0 "Peace with China"
+ MAN_CHI_peace_decision:0 "Offer Peace with China"
+ invade_indochina_cat:0 "Invade Indochina"
+ invade_indochina:0 "Strike the South"
+ invade_indochina_desc:0 "Now the Soviet Union is at war with Germany, it's time to retake all of indochina!"
+ PRC_specialized_training_decision:0 "Specialized Training Program"
+ PRC_specialized_training_decision_desc:0 "Specialized training programs designed to train new reseachers. A batch of trained personnel will be ready and it will §Yallieviate the skilled personnel shortage every§! §G90§! §Ydays§!.\n"
+
+ CHI_internal_party_support_n_socialism:0 "Internal Party Support"
+ CHI_aggresive_prosecution_of_opposition_n_socialism:0 "Aggressive Prosecution of Opposition"
+
+ #JAPAN PUPPET Government
+ JPG_declare_our_authority:0 "Declare our Authority"
+ JPG_declare_our_authority_desc:0 "Our government is now regarded as "illegitimate" by most countries and deviants in our own country. This can not continue. We will need show the world that we are the legitimate government of this land, not our enemies."
+ JPG_declare_our_sovereignty:0 "Declare our Sovereignty"
+
+
+ #WAR of RESISTANCE
+ RCM_war_of_resistance_decision_cat:0 "War of Resistance"
+ RCM_war_of_resistance_decision_cat_desc:0 "The Japanese threat has always been a plight on the Chinese people. A war of resistance against the Japanese invasion will be inevitable. In order to triumph, there will be measures taken and blood shed. However, if we chose not to defend ourselves and lose our country to Japan, the things they would do to the innocent Chinese poeple will be much worse. We need to protect our country at all cost. "
+
+ CHI_inch_blood_decision:0 "An Inch of Mountain, an Inch of Blood"
+ CHI_inch_blood_decision_desc:0 "An inch of mountain, an inch of blood; A thousand of youth, a thousand of troops. We will fight off our enemies as the saying describes!"
+ CHI_inch_blood_decision_tt:0 "§YThe perk of this national spirit will increase when our surrender progress increases, and vice versa.§!"
+
+ 
+ RCM_drain_the_water_lines_cat:0 "Water Lines Reparations"
+ CHI_flood_the_yellow_river:0 "Flood the Yellow River"
+ CHI_YEL_drain_the_water_lines:0 "Drain the Yellow River Water Lines"
+ CHI_flood_the_yangtze_river:0 "Flood the Yangtze River"
+ CHI_YANG_drain_the_water_lines:0 "Drain the Yangtze River Water Lines"
+
+ CHI_concentrated_defence_decision:0 "Concentrated Defence"
+ CHI_concentrated_defence_decision_desc:0 "Instead of focusing on offensive operations, defensive should be our top priority."
+ CHI_no_concentrated_defence:0 "Stop Concentrated Defence"
+
+
+ CHI_weapon_scavenging_decision:0 "Weapon Scavenging"
+ CHI_weapon_scavenging_decision_desc:0 "As the war goes on, our guns are running short. We should hold on to the equipment we currently have and take as many firearms from our enemy as possible."
+ CHI_no_weapon_scavenging:0 "Stop Weapon Scavenging"
+ CHI_space_for_time_decision:0 "Space for Time"
+ CHI_space_for_time_decision_desc:0 "In order to win this tough fight, sacrifice our territories can help us outlast our enemies."
+ CHI_dare_to_die_corps_decision:0 "Dare-to-die Corps"
+ CHI_dare_to_die_corps_decision_desc:0 "The struggle for the republic has already created plenty of martyrs. There will be plenty more before it is over. Their sacrifices will be remembered by generations to come."
+ CHI_last_ditch_effort_decision:0 "Last-ditch Effort"
+ CHI_last_ditch_effort_decision_desc:0 "The situation is not looking good for us, but we the Chinese people will never back down and will fights on with everything we've got!"
+ CHI_sunfall_air_decision:0 "Operation Sunset: Air Route"
+ CHI_sunfall_sea_decision:0 "Operation Sunset: Sea Route"
+
+ #CUSTOM COST
+ RCM_army_xp_at_least_30_command_power_at_least_30:0 "£army_experience  §H30§!  £command_power  §H30§!"
+ RCM_army_xp_at_least_30_command_power_at_least_30_blocked:0 "£army_experience  [Root.Get30xpornot]  £command_power  [Root.Get30cpornot]"
+ RCM_army_xp_at_least_30_command_power_at_least_30_tooltip:0 "It costs £army_experience  [Root.Get30xpornot] and £command_power [Root.Get30cpornot] to take the decision"
+ yes_has_30_xp:0 "§H30§!"
+ no_has_30_xp:0 "§R30§!"
+ yes_has_30_cp:0 "§H30§!"
+ no_has_30_cp:0 "§R30§!"
+
+ 5_civies:0 "£civ_factory §Y5 for $DAYS$ days§!"
+ 5_civies_blocked:0 "£civ_factory §R5§!"
+
+ 8_civies:0 "£civ_factory §Y8 for $DAYS$ days§!"
+ 8_civies_blocked:0 "£civ_factory §R8§!"
+
+#Administration REFORM
+RCM_admin_reforms_decision_cat:0 "Administrative Reorganization"
+RCM_admin_reforms_decision_cat_desc:0 "The administration of our nation is ridden with factionalism, bureaucratic practices and corruption. Reform our our administration will be required to rid our nation of this plight."
+RCM_admin_reforms_decision:0 "Administration Reforms"
+#USA Ultimatum
+RCM_ultimatum_to_JAP_decision_cat:0 "Ultimatum to Japan"
+RCM_ultimatum_to_JAP_decision_cat_desc:0 "The empire of Japan has been waging wars against its neighbors for far too long. Their unwarranted aggression against China is a cruelty against mankind. To add fuel to the fire, their intervention in the South East Asian region, particularly in Indochina, has resulted in a direct conflict of interest against the American People. This needs to stop now!"
+RCM_ultimatum_to_JAP_decision:0 "Issue demands to Japan"
+RCM_american_ultimatum_cat:0 "Ultimatum from [USA.GetNameDef]"
+RCM_american_ultimatum_cat_desc:0 "The Secretary of State Cordell Hull from [USA.GetNameDef] has delivered a note expressing a strict demand that we should forgo all our colonial territories in China and Indochina. Should we even consider this outrageous request?"
+RCM_american_ultimatum_mission:0 "American Ultimatum"
+JAP_reconsider_hull_note:0 "Reconsider Hull Note"
+RCM_warlord_support_central_governmet_cat:0 "Support the War of Resistance"
+RCM_warlord_support_central_governmet_cat_desc:0 "China is at war right now! It is of our best interest to help out the Governments at the frontline."
+RCM_warlord_support_central_governmet:0 "Supply Equipment to the Frontline"
+
+#MEN SUIYUAN OFFENSIVE
+RCM_ECA_suiyuan_campaign_cat:0 "Suiyan Campaign"
+RCM_ECA_suiyuan_campaign_cat_desc:0 "Suiyuan has always been a Mongolian province. With Japanese approval and our army ready we can launch an attack on Shanxi warlord to seize it."
+RCM_ECA_suiyuan_campaign_mission:0 "Suiyan Offensive"
+#RCM_ECA_suiyuan_campaign_mission_desc
+RCM_ECA_suiyuan_campaign_hold_our_lands:0 "Hold our Territories"
+#RCM_ECA_suiyuan_campaign_hold_our_lands_desc
+
+#MEN demand Alxa
+MEN_demand_alxa_cat:0 "Reclaim Territories"
+MEN_demand_alxa:0 "Demand Ownership of Alxa"
+
+#China reunites
+RCM_demand_lands:0 "Demand Return of Chinese Territories"
+
+#Political Struggle
+CHI_power_struggle_on_map:0 "[Root.GetPoliticalStruggleAvailability]"
+CHI_on_map_build_support_loc:0 "Select decisions on map to choose your state to build up support."
+CHI_on_map_build_and_remove_support_loc:0 "Select decisions on map to build up our or remove their support."
+RCM_what_is_country_legitemacy:0 "What is "§YCentral Government legitimacy§!"?"
+
+#Promise of Election
+RCM_promise_of_election_cat:0 "Promise of Election"
+RCM_promise_of_election_cat_desc:0 "We have promised our [Root.GetOpponentorPeople] an open free election. Failed to do so will result in the decline of our popularity.[Root.GetPromiseOfElectionsCommunistInGovOrNot]"
+RCM_promise_of_election_mission:0 "Promise of Election"
+POE_commie_will_coup_you:0 "\nIf there is §ROver 40% Communist Support§! while §Rour support is below 25%§! they will stage a coup and §Rthe game will be over for you§!."
+POE_none:0 ""
+POE_opponent:0 "political opponent"
+POE_people:0 "people"
+#institutionalize BS and CC
+RCM_remove_CC_and_BS:0 "Institutionalize Far-Right Organizations"
+RCM_remove_CC_decision:0 "Institutionalize Central Club Clique"
+RCM_remove_BS_decision:0 "Institutionalize [Root.GetBSorTPPYC]"
+
+CHI_reset_constitutionalize_pressure:0 "§GResets§! §H[Root.GetPressureorOpposition]§!§H.§!"
+CHI_reassure_commitment_to_constitutionalization:0 "Reassure Commitment to Constitutionalization"
+RCM_constitutionalization_pressure:0 "[Root.GetPressureorOpposition] Builds Up"
+RCM_constitutionalization_pressure_desc:0 "§RIf the mission is aborted but not completed, it will eventually come back when the abort criteria is no longer met.§!"
+no_longer_affected_by_pressure_tt:0 "\nNo Longer affected by mission §Y[Root.GetPressureorOpposition] Builds Up§!.\n"
+RCM_blueshirts_support_up:0 "§MSupport for [Root.GetBSorTPPYC]§! increases by §G5§!.\n"
+RCM_blueshirts_support_down:0 "§MSupport for [Root.GetBSorTPPYC]§! decreases by §R15§!.\n"
+RCM_CC_support_up:0 "§MSupport for Central Club Clique§! increases by §G5§!.\n"
+RCM_constitutionalization_lose_PP:0 "§RWe will lose Political Power equals to the amount of [Root.GetPressureorOpposition].§!\n"
+constitutionalization_pressure_pp_tt:0 "§WPolitical Power:§! §R-[?chi_constitutionalization_pressure]§!\n"
+RCM_pressure_rebrand_support_tt:0 "§YConstitutionalization Pressure§! will be rebranded as §YOpposition Support§!.\n"
+RCM_constitutionalization_lose_ruling_party_pop:0 "§G[Root.GetRulingparty] will lose popularity based on the amount of [Root.GetPressureorOpposition].§!\n"
+constitutionalization_pressure_RP_tt:0 "§WChange in popularity of Reactionary:§! §Y-[?chi_constitutionalization_pressure_divided_by_10]%§!\n"
+const_pressure_will_be_reducing_party_pop_instead_tt:0 "§Y[Root.GetPressureorOpposition]§! will be §Greducing ruling party popularity§! instead of political power.\n"
+
+CHI_garner_support_for_blue_shirts_society:0 "Garner Support for the [Root.GetBSorTPPYC]"
+CHI_garner_support_for_CC_clique:0 "Garner Support for the Central Club Clique"
+CHI_reorgaize_the_blue_shirts_society:0 "Reduce Fascist Influence"
+CCSupport_value_tt:0 "\n§MSupport For the Central Club Clique within the administration§!: §R[?chi_support_CC]§!"
+BlueShirtsSupport_value_tt:0 "\n§MSupport For the [Root.GetBSorTPPYC] within the administration§!: §R[?chi_support_blue_shirts]§!"
+RCM_chi_Fundamentals_of_National_Reconstruction_cat: "Fundamentals of National Reconstruction"
+RCM_chi_Fundamentals_of_National_Reconstruction_cat_desc:0 "Fundamentals of National Reconstruction is Sun Yat-sen's most important political statement. We must follow his path and complete the reconstruction of China, and if not, we must manage to maintain our authority somehow.\n\n§H[Root.GetPressureorOpposition] within the administration§!: [Root.GetGorR][?chi_constitutionalization_pressure]§![Root.GetBlueShirtsSupport][Root.GetCCSupport]\n§WComplete National Focus§! §G[Root.GetResetPressureFocus]§! §Wcan reset the pressure.§!"
+#Nat. Fund.
+RCM_25_percent_assassinate_chance:0 "§G25%§! chance to §Rassassinate political dissidents§! when they are about to §Yquestion our commitment to constitutionalization§!.\n§MWhen assassination is successful:§!\n"
+RCM_constitutionalization_pressure_up_15:0 "§H[Root.GetPressureorOpposition]§! builds up by [Root.GetGorR]15§!.\n"
+RCM_constitutionalization_pressure_up_10:0 "§H[Root.GetPressureorOpposition]§! builds up by [Root.GetGorR]10§!.\n"
+RCM_constitutionalization_pressure_up:0 "§H[Root.GetPressureorOpposition]§! builds up by [Root.GetGorR]5§!.\n"
+G_text:0 "§G"
+R_text:0 "§R"
+Opposition_tt:0 "Opposition Support"
+Pressure_tt:0 "Constitutionalization Pressure"
+chi_constitutionalization_pressure_less_than_20:0 "§Y[Root.GetPressureorOpposition]§! is less than [Root.GetGorR]20§!."
+chi_constitutionalization_pressure_greater_than_10:0 "§Y[Root.GetPressureorOpposition]§! is or is higher than [Root.GetGorR]10§!."
+chi_constitutionalization_pressure_greater_than_50:0 "§Y[Root.GetPressureorOpposition]§! is or is higher than [Root.GetGorR]50§!."
+chi_constitutionalization_pressure_greater_than_60:0 "§Y[Root.GetPressureorOpposition]§! is or is higher than [Root.GetGorR]60§!."
+chi_constitutionalization_pressure_greater_than_65:0 "§Y[Root.GetPressureorOpposition]§! is or is higher than [Root.GetGorR]65§!."
+chi_constitutionalization_pressure_greater_than_70:0 "§Y[Root.GetPressureorOpposition]§! is or is higher than [Root.GetGorR]70§!."
+chi_constitutionalization_pressure_greater_than_80:0 "§Y[Root.GetPressureorOpposition]§! is or is higher than [Root.GetGorR]80§!."
+chi_BS_support_greater_than_70:0 "§MSupport for the [Root.GetBSorTPPYC]§! is or is higher than §G70§!."
+chi_BS_support_greater_than_60:0 "§MSupport for the [Root.GetBSorTPPYC]§! is or is higher than §G60§!."
+chi_BS_support_greater_than_50:0 "§MSupport for the [Root.GetBSorTPPYC]§! is or is higher than §G50§!."
+chi_CC_support_greater_than_50:0 "§MSupport for the Central Club Clique§! is or is higher than §G50§!."
+chi_BS_support_greater_than_30:0 "§MSupport for the [Root.GetBSorTPPYC]§! is or is higher than §G30§!."
+chi_BS_support_greater_than_20:0 "§MSupport for the [Root.GetBSorTPPYC]§! is or is higher than §G20§!."
+chi_BS_support_greater_than_CC:0 "§MSupport for the [Root.GetBSorTPPYC]§! is higher than §YSupport for the Central Club Clique§!."
+chi_CC_support_greater_than_BS:0 "§MSupport for the Central Club Clique§! is higher than §YSupport for the [Root.GetBSorTPPYC]§!."
+chi_BS_support_greater_than_constitutionalization_pressure:0 "§MSupport for the [Root.GetBSorTPPYC]§! is higher than §Y[Root.GetPressureorOpposition]§!."
+chi_CC_support_greater_than_constitutionalization_pressure:0 "§MSupport for the Central Club Clique§! is higher than §Y[Root.GetPressureorOpposition]§!."
+chi_constitutionalization_pressure_minus_10_tt:0 "§Y[Root.GetPressureorOpposition]§! goes down by [Root.GetRorG]10§!."
+chi_constitutionalization_pressure_minus_5_tt:0 "§Y[Root.GetPressureorOpposition]§! goes down by [Root.GetRorG]5§!."
+
+RCM_propagandize_against_FROM:0 "Propagandize against [From.GetName]"
+RCM_insult_against_FROM:0 "Insult [From.GetNameDef] Leadership"
+
+
+WTT_border_conflict_initiate_incident_desc:0 "Our opinion of [From.GetName]: [Root.GetOpinion_r_g][?opinion@From]§!\n[From.GetName]'s Opinion of us: [Root.GetOpinion_r_g_from][?From.opinion@Root]§!"
+RCM_propagandize_against_FROM_desc:0 "Our opinion of [From.GetName]: [Root.GetOpinion_r_g][?opinion@From]§!\n[From.GetName]'s Opinion of us: [Root.GetOpinion_r_g_from][?From.opinion@Root]§!"
+RCM_insult_against_FROM_desc:0 "Our opinion of [From.GetName]: [Root.GetOpinion_r_g][?opinion@From]§!\n[From.GetName]'s Opinion of us: [Root.GetOpinion_r_g_from][?From.opinion@Root]§!"
+
+
+CHI_relocate_capital_wuhan:0 "Relocate Government to Hankow"
+CHI_relocate_capital_wuhan_desc:0 "With our capital Nanking on the verge of falling, we need to move our governing bodies to the city of Hankow, down the Yangtze River, to ensure that we keep our governemnt functional and able to pursue the struggle."
+nanking_or_neighbor_fallen:0 "Nanking or one of its neighboring states is not under our control"
+CHI_relocate_chongqing:0 "Relocate Government to Chongqing"
+CHI_relocate_chongqing_desc:0 "Despite our best efforts, Japanese troops keep advancing into the country and are dangerously approaching our provisional capital, Hankow. It now seems necessary to retreat to Chongqing, in the mountainous region of Szechwan, where hopefully the japanese army won't reach us."
+hankow_or_neighbor_fallen:0 "Hankow or one of its neighboring states is not under our control"
+CHI_return_to_nanking:0 "Move the Capital back to Nanking"
+CHI_return_to_nanking_desc:0 "Now that the war has reached an end, and that we reclaimed our former capital Nanking, we can move back the seat of our government there, in order to reassert our power in the most developed regions of China."
+
+#PRC core decisions
+RCM_amass_local_communist_support:0 "Amass Local Communist Support"
+
+#JAP truce with majors when loose to CHI
+RCM_JAP_truce_with_majors:0 "Negotiate Peace with [From.GetName]"
+RCM_JAP_truce_with_majors_desc:0 "After our loss in the mainland against China, our fight against [From.GetName] has now stuck in a stalemate and become pointless. A truce between both nations should negotiated, or the end of this war would drag our nation down."
+
+###DECISIONS###
+RCM_join_allies_decision_cat:0 "Join Force with the Allies"
+RCM_join_allies_decision_cat_desc:0 "After Germany launches their offensive against our nation, military cooperation with [From.GetName] would offer enormous help for our war effort."
+SOV_join_allies_decision:0 "Join Allies"
+
+#invite back zongren
+RCM_invite_liangguang_leaders_back:0 "Invite back Former Southern Warlord Leaders"
+RCM_invite_li_zhong_ren:0 "Invite Li Zongren"
+RCM_invite_li_zhong_ren_desc:0 "After the Liangguang Incident, Li Zongren has lost his power in the south and fled to Hong Kong. However, now China is in a state of crisis, prehaps re-invite him back to our governemnt can aid our war effort."
+RCM_invite_chen_jitang:0 "Invite Chen Jitang"
+RCM_invite_chen_jitang_desc:0 "After the Liangguang Incident, Chen Jitang has lost his power in the south and fled to Hong Kong. However, now China is in a state of crisis, prehaps re-invite him back to our governemnt can aid our war effort."
+
+RCM_lighten_trade_regulations:0 "Lighten Trade Regulations"
+RCM_lighten_trade_regulations_desc:0 "Trade regulations are causing economy turmoil in our country. Lighten it can help stabilize our economy."
+RCM_inflation_crisis:0 "Inflation Crisis"
+RCM_inflation_crisis_desc:0 "Our economy is too unstable and our regulations are too tight. Measures need to be taken or our economy could inflate."
+
+#SOV
+SOV_space_for_time_decision:0 "Industrial Evacuation"
+
+#JAP
+RCM_JAP_convene_imperial_war_conference:0 "Convene Imperial War Conference"
+RCM_JAP_convene_imperial_war_conference_desc:0 "Convention of Imperial War Conference is needed in order to ease out the tension between the Imperial Army and Airforce. Failed to do so will cause turmoil in our empire."
+
+RCM_JAP_secure_resources_in_south_east_asia:0 "Secure Southeast Asia Resources"
+RCM_JAP_secure_resources_in_south_east_asia_desc:0 "Due to the recent sanction from [USA.GetNameDef], our nation will have to get resources and supply from the South. Once we have done that, we can turn our gunpoints back to who ever we were dealing with."
+RCM_JAP_secure_resources_in_Malaya:0 "Secure Resources in Malaya"
+RCM_JAP_secure_resources_in_Indochina:0 "Secure Resources in Indochina"
+RCM_JAP_secure_resources_in_Indonesia:0 "Secure Resources in Indonesia"
+RCM_JAP_secure_resources_in_Philippines:0 "Secure Resources in the Philippines"
+
+JAP_white_peace_after_defeat:0 "Sue for Peace with [From.GetName]"
+JAP_white_peace_after_defeat_desc:0 "£location_pointer §RWarning: This might take a while to load.§!\n"
+
+RCM_officer_unrest_build_up:0 "Officers Unrest Builds Up"
+RCM_officer_unrest_build_up_desc:0 "Due to the spread of radical beliefs and the dissatisfaction against the policies and the inactivenes against the current government, many officers are building up unrest against the current leadership. Measures need to be taken to solve the problem."
+RCM_unrest_against_yonai:0 "Officers Unrest against Prime Minister Yonai"
+RCM_unrest_against_yonai_desc:0 "Due to the spread of radical beliefs and the dissatisfaction against the policies and the inactivenes against the current government, many officers are building up unrest against the current leadership. Many are calling for Prime Minister Yonai to step down."
+RCM_pro_axis_unrest_YONAI:0 "Pro-Axis Unrest against the Prime Minister"
+RCM_pro_axis_unrest_YONAI_desc:0 "Due to the spread of radical beliefs and the dissatisfaction against the policies and the inactivenes against the current government, many pro-Axis officers are building up unrest against the current leadership. Many are calling for the Prime Minister to step down."
+RCM_pro_axis_unrest_KONOE:0 "Pro-Axis Unrest Calling for [Root.GetSEPorSTP]"
+RCM_pro_axis_unrest_KONOE_desc:0 "Due to the spread of radical beliefs and the dissatisfaction against the policies and the inactivenes against the current government, many officers are building up unrest against the current leadership. Many are calling for [Root.GetSEPorSTP]."
+RCM_officers_demand_war_with_US:0 "Officers Demand War with [USA.GetNameDef]"
+RCM_officers_demand_war_with_US_desc:0 "Due to the spread of radical beliefs and the dissatisfaction against the policies and the inactivenes against the current government, many officers are building up unrest against the current leadership. Many are calling for a total war against America."
+
+RCM_demand_north_east_china:0 "Demand Northeast China"
+
+RCM_foreign_aid:0 "Send Foreign Aid to [From.GetName]"
+
+#MAN
+RCM_establish_white_russia:0 "Liberation of Russia"
+RCM_establish_white_russia_decision:0 "Establish Imperial Russia"
+the_decision_will_allow_you_to:0 "\n§MThe decision will allow you to:§!\n"
+
+SIA_war_is_ok_decision:0 "Join war with Japan"
+
+JAP_dismantle_indochina:0 "Dismantle Indochina"
+JAP_sue_for_peace_lost_MAN:0 "Offer Unconditional Surrender"
